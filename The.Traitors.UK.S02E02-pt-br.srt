@@ -1,0 +1,5540 @@
+1
+00:00:03,243 --> 00:00:06,203
+Chegaram 22 jogadores
+neste castelo escocês
+
+2
+00:00:06,243 --> 00:00:08,963
+para jogar o ultimate
+jogo de mistério de assassinato,
+
+3
+00:00:09.003 --> 00:00:12.883
+na esperança de ganhar até
+£ 120.000.
+
+4
+00:00:14.403 --> 00:00:17.363
+Mas escondido entre eles
+são os traidores,
+
+5
+00:00:17.403 --> 00:00:21.603
+que secretamente assassinará seus
+outros jogadores à noite.
+
+6
+00:00:21.643 --> 00:00:25.563
+Cabe aos fiéis trabalhar
+descubra quem são os traidores...
+
+7
+00:00:25.603 --> 00:00:26.763
+<font color="#ffff00">Você é um traidor?</font>
+
+8
+00:00:26.803 --> 00:00:28.723
+.. e bani-los do jogo...
+
+9
+00:00:28.763 --> 00:00:31.003
+<font color="#00ffff">Quer saber?</font>
+<font color="#00ffff">Acho que você é um traidor.</font>
+
+10
+00:00:31.043 --> 00:00:32.243
+<font color="#00ff00">Isso é louco.</font>
+
+11
+00:00:32.283 --> 00:00:34.483
+.. porque se um traidor permanecer
+Detectado...
+
+12
+00:00:34.523 --> 00:00:35.883
+<font color="#ffff00">Oh, meu Deus!</font>
+
+13
+00:00:35.923 --> 00:00:37.123
+<font color="#00ffff">Eu nunca teria adivinhado ela!</font>
+
+14
+00:00:37,163 --> 00:00:38,963
+.. eles pegam todo o dinheiro.
+
+15
+00:00:41.243 --> 00:00:45.763
+.. três traidores foram selecionados,
+Mas houve uma reviravolta surpresa.
+
+16
+00:00:45.803 --> 00:00:46.323
+.. três traidores foram selecionados,
+Mas houve uma reviravolta surpresa.
+
+17
+00:00:46,363 --> 00:00:50,963
+A seleção do traidor não é
+bastante completo.
+
+18
+00:00:51,003 --> 00:00:55,203
+Traidores, vocês vão se alistar
+o membro final.
+
+19
+00:00:55.243 --> 00:00:57.923
+Então os traidores tiveram um grande
+decisão a tomar.
+
+20
+00:00:57.963 --> 00:00:59.443
+<font color="#ffff00">Então, Andrew é um.</font>
+
+21
+00:00:59,483 --> 00:01:03,403
+<font color="#ffff00">Temos Miles... </fonte>
+<font color="#00ffff">Sonja.</font> <font color="#ffff00">.. Sonja e Diane.</font>
+
+22
+00:01:03.443 --> 00:01:05.483
+É você.
+
+23
+00:01:05.523 --> 00:01:08.043
+À medida que o prêmio começou a crescer...
+
+24
+00:01:08.083 --> 00:01:10.003
+TORCENDO
+
+25
+00:01:10.043 --> 00:01:12.003
+.. assim como as suspeitas.
+
+26
+00:01:12.043 --> 00:01:13.723
+<font color="#00ffff">Ouvi dizer que você teve problemas</font>
+<font color="#00ffff">no seu barco.</font>
+
+27
+00:01:13.763 --> 00:01:15.843
+<font color="#00ff00">Que pássaro lhe disse que tínhamos</font>
+<font color="#00ff00">problemas no barco?</font>
+
+28
+00:01:15.883 --> 00:01:19.083
+<font color="#ffff00">Você entrou em pânico sob a venda?</font>
+<font color="#00ff00">Não, eu era hétero... </font> <font color="#00ffff">Fui eu.</font>
+
+29
+00:01:19.123 --> 00:01:21.243
+<font color="#ffff00">Ross ouviu alguém dizer,</font>
+<font color="#ffff00">"Vou dormir tranquilo esta noite." </fonte>
+
+30
+00:01:21.283 --> 00:01:23.323
+<font color="#00ffff">Não tenho certeza de qual ângulo</fonte>
+<font color="#00ffff">ela estava tentando chegar.</font>
+
+31
+00:01:23.363 --> 00:01:25.643
+E os traidores estavam prestes a
+Encontre-se com seu novo recruta
+
+32
+00:01:25.683 --> 00:01:27.803
+pela primeira vez.
+
+33
+00:01:27.843 --> 00:01:31.243
+Agora você é oficialmente um traidor.
+
+34
+00:01:31.283 --> 00:01:33.563
+<font color="#00ffff">Eu sei que fizemos</font>
+<font color="#00ffff">a escolha certa.</font>
+
+35
+00:01:33,603 --> 00:01:35,483
+Este é Os Traidores.
+
+36
+00:01:53.443 --> 00:01:56.883
+# Esta é a escuridão interior... #
+
+37
+00:02:01.163 --> 00:02:02.963
+BATA NA PORTA
+
+38
+00:02:06.443 --> 00:02:09.723
+# .. Esta é a escuridão interior... #
+
+39
+00:02:26.003 --> 00:02:27.843
+<font color="#00ffff">Eu sou um traidor.</font>
+
+40
+00:02:27.883 --> 00:02:31.483
+<cor da fonte="#00ffff">sim! Ah! Crazy.</font>
+
+41
+00:02:36.283 --> 00:02:38.603
+ELE FICA SURPRESO
+
+42
+00:02:39,843 --> 00:02:41,603
+<font color="#00ffff">Oh, meu Deus!</font>
+
+43
+00:02:41.643 --> 00:02:43.243
+<font color="#ffff00">Bem-vindo ao lado negro.</font>
+
+44
+00:02:43.283 --> 00:02:46.203
+<font color="#00ffff">Oh, meu Deus!</font>
+<font color="#00ffff">Perplexo, absolutamente perplexo.</font>
+
+45
+00:02:46,243 --> 00:02:49,083
+<font color="#00ffff">Não tinha ideia de que seriam esses três</font>
+
+46
+00:02:49,123 --> 00:02:50,523
+<font color="#00ffff">quem me escolheu.</font>
+
+47
+00:02:50,563 --> 00:02:51,643
+<font color="#00ffff">Então, sim... </fonte>
+
+48
+00:02:53,403 --> 00:02:54,603
+<cor da fonte="#00ffff">Blown.</font>
+
+49
+00:02:54.643 --> 00:02:56.483
+<font color="#ffff00">E você estava no topo.</font> <font color="#00ffff">Ah, sério?</font>
+
+50
+00:02:56,523 --> 00:02:58,603
+<font color="#ffff00">Você estava bem no topo.</font> <font color="#00ffff">Sério?</font>
+<cor da fonte="#ffff00">sim, sim, sim.</fonte>
+
+51
+00:02:58,643 --> 00:03:02,363
+<font color="#ffff00">Miles sendo trazidos tem</font>
+<font color="#ffff00">fortaleceu nós</font>
+
+52
+00:03:02,403 --> 00:03:05,203
+<font color="#ffff00">uma quantidade inacreditável.</font>
+<font color="#ffff00">Ele é uma grande personalidade,</font>
+
+53
+00:03:05,243 --> 00:03:06,443
+<cor da fonte="#ffff00">obstinado,</fonte>
+
+54
+00:03:06.483 --> 00:03:09.683
+<font color="#ffff00">mas ele também é ferozmente leal.</font>
+
+55
+00:03:09.723 --> 00:03:12.643
+<font color="#00ffff">Oh, meu Deus, não posso acreditar!</font>
+
+56
+00:03:12.683 --> 00:03:14.243
+<font color="#00ff00">Você suspeitou de alguma coisa?</font>
+
+57
+00:03:14.283 --> 00:03:16.643
+<font color="#00ffff">Não, não, não, nenhum de vocês.</font> <font color="#ffff00">Sério?</font>
+<font color="#00ffff">Nenhum de vocês.</font>
+
+58
+00:03:16.683 --> 00:03:18.563
+<font color="#00ffff">Isso me coloca no jogo, estou animado.</font>
+
+59
+00:03:18.603 --> 00:03:21.843
+<font color="#00ffff">Quero ser o último sobrevivente</font>
+<font color="#00ffff">e ter todo o dinheiro. Jogo em.</font>
+
+60
+00:03:23.883 --> 00:03:27.243
+<font color="#00ff00">Agora que você está aqui,</font>
+<font color="#00ff00">tem um pequeno trabalho a fazer, não é?</font>
+
+61
+00:03:27,283 --> 00:03:29,203
+<font color="#00ffff">Ah, oh, meu Deus.</font>
+
+62
+00:03:30,603 --> 00:03:34,043
+<font color="#00ff00">Então, as pessoas que ganharam um Shield</font>
+<font color="#00ff00">tonight, obviamente Kyra, Jaz,</font>
+
+63
+00:03:34,083 --> 00:03:37,043
+<font color="#00ff00">e de alguma forma eu ganhei</font>
+<font color="#00ff00">a Shield também.</font> <font color="#ffff00">Wonderful.</font>
+
+64
+00:03:37.083 --> 00:03:39.363
+<font color="#00ff00">Como um traidor adequado, snake-style.</font>
+<cor da fonte="#ffff00">sim.</fonte>
+
+65
+00:03:39,403 --> 00:03:41,483
+<font color="#00ff00">Então, obviamente,</font>
+<font color="#00ff00">eles estão fora da tabela.</font>
+
+66
+00:03:41.523 --> 00:03:42.843
+<cor da fonte="#00ffff">Mm-hm.</font>
+
+67
+00:03:42.883 --> 00:03:44.563
+<font color="#ffff00">Quer saber um nome</font>
+<font color="#ffff00">Eu estava pensando?</font>
+
+68
+00:03:44,603 --> 00:03:46,203
+<cor da fonte="#ffff00">Ants.</font>
+
+69
+00:03:46.243 --> 00:03:48.563
+<font color="#00ff00">Ele ficou um pouco espetado antes.</font>
+<font color="#00ffff">Ele fez.</font>
+
+70
+00:03:48,603 --> 00:03:50,243
+<font color="#00ff00">Ele ligou Zack.</font>
+
+71
+00:03:50.283 --> 00:03:51.763
+<font color="#00ffff">Você também precisa se lembrar</font>
+
+72
+00:03:51,803 --> 00:03:53,803
+<font color="#00ffff">que você - pessoas que o farão</font>
+<font color="#00ffff">banir a si mesmos.</font>
+
+73
+00:03:53,843 --> 00:03:56,283
+<font color="#00ffff">Acho que com, você sabe, ele</font>
+<font color="#00ffff">começando com Zack e outros enfeites,</font>
+
+74
+00:03:56.323 --> 00:03:58.323
+<font color="#00ffff">que potencialmente pode espiral.</font>
+
+75
+00:03:58,363 --> 00:04:00,603
+<font color="#00ffff">Ele está definitivamente na </font>
+<cor da fonte="#00ffff">bloco de corte.</font>
+
+76
+00:04:00.643 --> 00:04:02.763
+<font color="#00ff00">Quem está fora da mesa?</font>
+
+77
+00:04:02.803 --> 00:04:06.323
+<font color="#00ff00">Algo estranho que aconteceu</font>
+<font color="#00ff00">esta manhã. Sonja.</font>
+
+78
+00:04:06,363 --> 00:04:08,203
+<font color="#00ffff">Sério?</font> <font color="#ffff00">Sim, eu sei.</font>
+
+79
+00:04:08,243 --> 00:04:09,563
+<font color="#00ff00">Na mesa do café da manhã,</font>
+
+80
+00:04:09,603 --> 00:04:12,843
+<font color="#00ff00">e ela disse: "VOCÊ é um traidor?" </fonte>
+<font color="#00ff00">E ela começou a rir.</font>
+
+81
+00:04:12.883 --> 00:04:14.643
+<font color="#ffff00">Ah, sério?</font>
+
+82
+00:04:14.683 --> 00:04:16.363
+<font color="#00ff00">Eu, sinceramente, acredito que ela é</font>
+<cor da fonte="#00ff00">inofensivo.</fonte>
+
+83
+00:04:16,403 --> 00:04:17,923
+<font color="#00ff00">No, no, no, no, no.</font>
+
+84
+00:04:17.963 --> 00:04:20.603
+<font color="#ffff00">Sonja tem muitos seguidores.</font>
+
+85
+00:04:20.643 --> 00:04:25.683
+<font color="#00ff00">Esta noite, Aubrey também disse: </font>
+<font color="#00ff00">"Oh, eu tenho suspeitas." </fonte>
+
+86
+00:04:25.723 --> 00:04:25.963
+<font color="#00ff00">Esta noite, Aubrey também disse: </font>
+<font color="#00ff00">"Oh, eu tenho suspeitas." </fonte>
+
+87
+00:04:26.003 --> 00:04:28.443
+<font color="#00ffff">Aubrey assiste à distância.</font>
+
+88
+00:04:28.483 --> 00:04:30.243
+<font color="#00ffff">Ele está em um plano de jogo</font>
+<font color="#00ffff">desde o primeiro dia.</font>
+
+89
+00:04:30,283 --> 00:04:32,603
+<font color="#00ffff">Acho que ele foi mantido propositalmente</font>
+<font color="#00ffff">ele mesmo separado.</font>
+
+90
+00:04:32.643 --> 00:04:35.483
+<font color="#00ff00">Isso é o que não queremos,</font>
+<font color="#00ff00">são os grupos separados.</font>
+
+91
+00:04:35,523 --> 00:04:38,163
+<font color="#ffff00">Diane, você meio que se sente como</font>
+<font color="#ffff00">ela suspeita que você</font>
+
+92
+00:04:38,203 --> 00:04:40,243
+<font color="#ffff00">quando ela está parada.</font>
+
+93
+00:04:40,283 --> 00:04:42,563
+<font color="#ffff00">Então, se ela tem uma abelha nela</font>
+<font color="#ffff00">bonnet sobre você,</font>
+
+94
+00:04:42,603 --> 00:04:44,763
+<font color="#ffff00">então ela pode começar a espalhar</font>
+<font color="#ffff00">it around.</font>
+
+95
+00:04:44,803 --> 00:04:48,163
+<font color="#00ff00">A mensagem que devemos tentar</font>
+<font color="#00ff00">e enviar é que ninguém está seguro.</font>
+
+96
+00:04:48,203 --> 00:04:50,923
+<font color="#ffff00">Então, quem vamos matar?</font>
+
+97
+00:04:50,963 --> 00:04:55,123
+<font color="#ffff00">OK, então é entre Diane... </fonte>
+
+98
+00:04:55,163 --> 00:04:57,563
+<cor da fonte="#ffff00">.. Aubrey... </fonte>
+
+99
+00:04:57,603 --> 00:05:00,403
+<cor da fonte="#ffff00">.. e Sonja.</font>
+
+100
+00:05:00,443 --> 00:05:05,003
+# Eu, acabei de morrer em seus braços
+esta noite... #
+
+101
+00:05:05,043 --> 00:05:05,563
+# Eu, acabei de morrer em seus braços
+esta noite... #
+
+102
+00:05:07,443 --> 00:05:09,523
+<font color="#00ff00">Acho que é a melhor escolha</font>
+<font color="#00ff00">que poderíamos ter feito.</font>
+
+103
+00:05:09,563 --> 00:05:10,843
+<font color="#ffff00">É uma ótima jogada.</font>
+
+104
+00:05:10.883 --> 00:05:13.203
+<font color="#00ff00">Feliz assassinato.</font>
+
+105
+00:05:13.243 --> 00:05:14.683
+<font color="#00ff00">É tão bom, não é?</font>
+
+106
+00:05:14.723 --> 00:05:16.123
+<cor da fonte="#00ffff">Uau!</fonte>
+
+107
+00:05:18,403 --> 00:05:23,043
+# .. Eu acabei de morrer em seus braços esta noite
+
+108
+00:05:23.083 --> 00:05:24.283
+# .. Eu acabei de morrer em seus braços esta noite
+
+109
+00:05:27.323 --> 00:05:31.563
+# Deve ter sido algo
+você disse... #
+
+110
+00:05:31.603 --> 00:05:32.563
+# Deve ter sido algo
+você disse... #
+
+111
+00:05:54.803 --> 00:05:57.563
+Ontem à noite, os traidores
+cometeram seu primeiro assassinato,
+
+112
+00:05:57,603 --> 00:06:00,843
+mas que Faithful não conseguiu
+durante a noite?
+
+113
+00:06:00.883 --> 00:06:04.643
+Esta manhã, os jogadores sobreviventes
+farão o seu caminho para o café da manhã,
+
+114
+00:06:04.683 --> 00:06:07.843
+mas um fiel não será
+Chegando ao castelo
+
+115
+00:06:07.883 --> 00:06:12.043
+e atualmente, apenas os Traidores
+Saiba quem é.
+
+116
+00:06:12.083 --> 00:06:14.883
+# Porque ninguém me ama
+
+117
+00:06:14,923 --> 00:06:17,363
+# É verdade
+
+118
+00:06:19.243 --> 00:06:21.963
+# Não como você faz... #
+
+119
+00:06:23,803 --> 00:06:25,843
+<font color="#ffff00">Oh, não há ninguém aqui.</font>
+<font color="#00ffff">Oh, não há ninguém aqui!</font>
+
+120
+00:06:25,883 --> 00:06:27,883
+<font color="#00ffff">Somos só nós.</font> <font color="#ffff00">Ah!</font>
+
+121
+00:06:27.923 --> 00:06:29.243
+<font color="#ffff00">Descemos para o café da manhã,</font>
+
+122
+00:06:29.283 --> 00:06:32.243
+<font color="#ffff00">um dos primeiros em,</font>
+<font color="#ffff00">o que era estranho.</font>
+
+123
+00:06:32.283 --> 00:06:33.923
+<font color="#00ffff">Meu Deus, isso é tão estranho, não é?</font>
+
+124
+00:06:33.963 --> 00:06:36.123
+<font color="#ffff00">Oh, temos que sentar</font>
+<font color="#ffff00">e veja todos entrarem agora.</font>
+
+125
+00:06:36,163 --> 00:06:39,363
+<font color="#ffff00">Onde vamos nos sentar?</font>
+<font color="#00ffff">Onde quer que haja comida.</font>
+
+126
+00:06:39,403 --> 00:06:42,083
+<font color="#ffff00">Somos novos no todo</font>
+<font color="#ffff00">cena de assassinato,</font>
+
+127
+00:06:42,123 --> 00:06:44,283
+<font color="#ffff00">então é muito estressante,</font>
+<font color="#ffff00">it really is.</font>
+
+128
+00:06:44.323 --> 00:06:46.883
+<font color="#00ffff">Quem você acha que foi assassinado?</font>
+
+129
+00:06:46,923 --> 00:06:48,763
+<font color="#ffff00">Não faço ideia, para ser honesto.</font>
+
+130
+00:06:48,803 --> 00:06:50,483
+<cor da fonte="#00ffff">No.</font>
+BATA NA PORTA
+
+131
+00:06:50.523 --> 00:06:53.923
+<cor da fonte="#00ffff">Oh! Aqui vamos nós!</font> <font color="#ffff00">Quem está indo</font>
+<font color="#ffff00">to be?</font> <font color="#00ffff">Entre!</font>
+
+132
+00:06:53.963 --> 00:06:57.163
+ELES GRITAM
+
+133
+00:06:59,003 --> 00:07:00,963
+<font color="#00ffff">Olá!</font> <font color="#ffff00">Vocês estão todos vivos!</font> <font color="#00ff00">Oh, uau!</font>
+
+134
+00:07:01,003 --> 00:07:02,203
+<font color="#00ffff">Estamos todos vivos!</font>
+
+135
+00:07:02.243 --> 00:07:04.843
+<font color="#00ffff">Indo para o café da manhã,</font>
+<font color="#00ffff">foi... </fonte>
+
+136
+00:07:04,883 --> 00:07:06,683
+<cor da fonte="#00ffff">elation.</font>
+
+137
+00:07:06,723 --> 00:07:08,683
+<font color="#00ffff">Eu estava convencido de que</font>
+<font color="#00ffff">Eu estava pronto para o chop.</font>
+
+138
+00:07:08,723 --> 00:07:11,883
+<font color="#00ffff">Porque eu sou cristão, então eu estava tipo,</font>
+<font color="#00ffff">"Por favor!" Quero dizer, < / fonte>
+
+139
+00:07:11.923 --> 00:07:15.163
+<font color="#00ffff">Não sei se Deus realmente</font>
+<font color="#00ffff">relógios Os Traidores, mas... </fonte>
+
+140
+00:07:15,203 --> 00:07:18,523
+<font color="#00ff00">Tenho certeza que sim, ou ela.</font>
+<font color="#00ffff">Ou ela!</font> <font color="#00ff00">Sim, ele ou ela.</font>
+
+141
+00:07:18,563 --> 00:07:21,603
+<font color="#00ffff">sim, sim, sim.</font> <font color="#ffff00">Sinto que posso,</font>
+<font color="#ffff00">like, relaxe no café da manhã agora,</font>
+
+142
+00:07:21.643 --> 00:07:22.803
+<font color="#ffff00">Eu posso comer e pronto.</font>
+
+143
+00:07:22.843 --> 00:07:24.763
+<font color="#ffff00">Mas então, tipo, só dura</font>
+<font color="#ffff00">por um segundo</font>
+
+144
+00:07:24,803 --> 00:07:27,163
+<font color="#ffff00">e então é como, "Quem não é</font>
+<font color="#ffff00">vai entrar pela porta?" </fonte>
+
+145
+00:07:27.203 --> 00:07:29.163
+BATA NA PORTA
+
+146
+00:07:29,203 --> 00:07:30,843
+<font color="#00ffff">Ooh!</font> <font color="#ffff00">Oh, vamos lá.</font> <font color="#00ffff">Entre!</font>
+
+147
+00:07:32,443 --> 00:07:34,203
+<font color="#ffff00">Aqui vamos nós.</font> <font color="#00ffff">Quem vai ser?</font>
+
+148
+00:07:34.243 --> 00:07:37.723
+TODOS SE CUMPRIMENTAM
+
+149
+00:07:37,763 --> 00:07:41,763
+<font color="#00ff00">Olá a todos. Eu diria hi.</font>
+<font color="#00ff00">Hi.</font> <font color="#00ffff">Como você está?</font>
+
+150
+00:07:41,803 --> 00:07:44,723
+<font color="#00ff00">Como traidor, o café da manhã é o</fonte>
+<font color="#00ff00">coisa mais difícil porque gosta, </font>
+
+151
+00:07:44.763 --> 00:07:46.523
+<font color="#00ff00">para mim, eu sei quem vou ver,</font>
+<font color="#00ff00">Eu sei quem está lá.</font>
+
+152
+00:07:46,563 --> 00:07:48,243
+<font color="#ffff00">Como vocês dormiram?</font>
+
+153
+00:07:48,283 --> 00:07:51,003
+<font color="#00ffff">Não muito bom,</font>
+<font color="#00ffff">Fiquei pensando que ia morrer.</font>
+
+154
+00:07:51.043 --> 00:07:52.843
+<font color="#00ff00">Eu ainda estava muito nervoso</font>
+<font color="#00ff00">e outras coisas,</font>
+
+155
+00:07:52.883 --> 00:07:54.363
+<font color="#00ff00">mas eu meio que sabia que tudo estava bem.</font>
+
+156
+00:07:54,403 --> 00:07:56,243
+<font color="#ffff00">Claro que sim,</font>
+<font color="#ffff00">você tinha o Shield, yes.</font>
+
+157
+00:07:56,283 --> 00:07:58,203
+<font color="#00ff00">Mas eu ainda sentia vontade,</font>
+<cor da fonte="#00ff00">coração batendo.</font>
+
+158
+00:07:58,243 --> 00:08:00,243
+<font color="#00ff00">É como o coração batendo como em,</font>
+<font color="#00ff00">alguém vai.</font>
+
+159
+00:08:00,283 --> 00:08:01,563
+<font color="#ffff00">Você simplesmente não consegue relaxar.</font>
+
+160
+00:08:01,603 --> 00:08:02,603
+<font color="#00ff00">Então meu plano é</font>
+
+161
+00:08:02.643 --> 00:08:04.243
+<font color="#00ff00">acredita genuinamente que sou um fiel</font>
+
+162
+00:08:04.283 --> 00:08:07.123
+<font color="#00ff00">cos se você acredita que mentira,</font>
+<font color="#00ff00">torna-se a verdade.</font>
+
+163
+00:08:07.163 --> 00:08:09.483
+<font color="#00ffff">Você já está suspeitando de alguém?</font>
+
+164
+00:08:09,523 --> 00:08:12,323
+<font color="#00ff00">Parece estúpido, mas tipo, Zack,</font>
+<font color="#00ff00">só porque, nessa tabela,</font>
+
+165
+00:08:12.363 --> 00:08:15.163
+<font color="#00ff00">você podia ouvi-lo rindo,</font>
+<font color="#00ff00">então, assim que os tiramos, </font>
+
+166
+00:08:15,203 --> 00:08:18,123
+<font color="#00ff00">era como,</font>
+<font color="#00ff00">algo aconteceu, sabe?</font>
+
+167
+00:08:18.163 --> 00:08:20.243
+<font color="#00ff00">Mas se eu olhar para todos os outros,</font>
+<font color="#00ff00">Não tenho nada.</font>
+
+168
+00:08:20.283 --> 00:08:22.203
+<font color="#00ffff">Eu também não tenho nada.</font>
+BATA NA PORTA
+
+169
+00:08:22.243 --> 00:08:23.923
+<font color="#00ff00">Someone else.</font>
+<font color="#00ffff">Isso foi uma batida?</font>
+
+170
+00:08:25.723 --> 00:08:28.243
+<font color="#ffff00">Olá!</font> <font color="#00ff00">Ei!</font> <font color="#00ffff">Olá!</font>
+
+171
+00:08:28,283 --> 00:08:31,523
+<font color="#00ff00">Olá!</font> <font color="#00ffff">Argh! Deus, o estresse!</font>
+
+172
+00:08:31.563 --> 00:08:34.323
+<font color="#ffff00">Olá. Olá, pessoal!</font>
+
+173
+00:08:34.363 --> 00:08:36.843
+<font color="#00ff00">É bom ver você! Consulte?</font>
+<font color="#00ff00">Nada com que se preocupar.</font>
+
+174
+00:08:36.883 --> 00:08:38.723
+<font color="#00ffff">Oh, meu coração está batendo forte</font>
+<font color="#00ffff">out my chest.</font>
+
+175
+00:08:38.763 --> 00:08:41.283
+<font color="#00ffff">Ansiedade no início</font>
+<font color="#00ffff">o café da manhã estava alto.</font>
+
+176
+00:08:41,323 --> 00:08:44,043
+<font color="#00ffff">Obviamente, eu sou o novo recruta,</font>
+
+177
+00:08:44.083 --> 00:08:46.963
+<font color="#00ffff">então estou realmente em território desconhecido</font>
+<font color="#00ffff">no momento.</font>
+
+178
+00:08:47.003 --> 00:08:48.763
+<font color="#00ffff">Então, quem estamos esperando?</font>
+
+179
+00:08:48,803 --> 00:08:50,403
+<font color="#00ff00">Na verdade, existem alguns,</font>
+<font color="#00ff00">não há?</font>
+
+180
+00:08:50,443 --> 00:08:53,203
+BATA NA PORTA
+<font color="#ffff00">Ooh!</font> <font color="#00ff00">Ooh! Aqui vamos nós!</font>
+
+181
+00:08:53.243 --> 00:08:56.443
+<font color="#00ff00">Bata na porta.</font>
+<font color="#00ffff">Como em!</font>
+
+182
+00:08:56,483 --> 00:08:59,483
+TORCENDO
+
+183
+00:09:03,403 --> 00:09:07,523
+<font color="#ffff00">Todo o meu processo de pensamento é</font>
+<font color="#ffff00">aperfeiçoando a entrada para o café da manhã.</font>
+
+184
+00:09:07.563 --> 00:09:11.283
+<font color="#ffff00">Olá. Bom dia a todos.</font>
+<font color="#ffff00">Bom dia, mwah!</font>
+
+185
+00:09:11.323 --> 00:09:12.843
+<font color="#ffff00">Só tenho que gerenciar o tipo de </font>
+
+186
+00:09:12.883 --> 00:09:14.683
+<font color="#ffff00">"Pensei que ia morrer,</font>
+<font color="#ffff00">Eu não morri." </fonte>
+
+187
+00:09:14.723 --> 00:09:15.923
+<font color="#ffff00">Oh, meu Deus.</font>
+
+188
+00:09:15.963 --> 00:09:18.203
+<font color="#ffff00">Muito feliz em ver todos.</font>
+
+189
+00:09:18.243 --> 00:09:21.203
+<font color="#ffff00">Então, estou tentado a talvez fazer</font>
+<font color="#ffff00">um olho lacrimejante.</font>
+
+190
+00:09:21.243 --> 00:09:23.683
+<font color="#ffff00">Respira fundo, dá ondas redondas</font>
+<font color="#ffff00">a tabela</font>
+
+191
+00:09:23.723 --> 00:09:25.723
+<font color="#ffff00">e comece a partir daí,</font>
+<font color="#ffff00">tipo de coisa.</font>
+
+192
+00:09:27,483 --> 00:09:29,483
+<font color="#00ffff">Bem ali, quando Paul entrou,</font>
+
+193
+00:09:29.523 --> 00:09:33.483
+<font color="#00ffff">ele parecia genuinamente feliz</font>
+<font color="#00ffff">que ele estava aqui.</font>
+
+194
+00:09:33.523 --> 00:09:36.443
+<font color="#00ff00">Não sinto uma cheirada de Paul</font>
+<font color="#00ff00">de ser um traidor.</font> <font color="#00ffff">No.</font>
+
+195
+00:09:36,483 --> 00:09:38,843
+BATA NA PORTA
+
+196
+00:09:38.883 --> 00:09:40.363
+<font color="#ffff00">Como em!</font>
+
+197
+00:09:42.683 --> 00:09:44.723
+TORCENDO
+
+198
+00:09:46.683 --> 00:09:48.043
+<font color="#ffff00">Sim!</font>
+
+199
+00:09:49,563 --> 00:09:50,803
+<font color="#00ffff">Ótimo ver você.</font>
+
+200
+00:09:50,843 --> 00:09:53,603
+<font color="#00ffff">Ei!</font> <font color="#00ff00">Olá, adorável.</font> <font color="#ffff00">Oh, obrigado.</font>
+
+201
+00:09:53.643 --> 00:09:56.043
+<font color="#ffff00">Suponho que a surpresa seja que</font>
+<font color="#ffff00">você vai tomar café da manhã,</font>
+
+202
+00:09:56,083 --> 00:09:57,483
+<font color="#ffff00">para que você não seja a pessoa desaparecida,</font>
+
+203
+00:09:57.523 --> 00:09:59.283
+<font color="#ffff00">isso foi bom.</font>
+
+204
+00:09:59.323 --> 00:10:01.723
+<font color="#ffff00">Adorável estar de volta ao café da manhã</font>
+<font color="#ffff00">com everybody.</font>
+
+205
+00:10:01.763 --> 00:10:04.243
+<font color="#ffff00">Bem, nem todo mundo.</font>
+<font color="#ffff00">Quem não está aqui?</font>
+
+206
+00:10:04,283 --> 00:10:06,123
+<font color="#ffff00">Mas é preciso um pouco de trabalho</font>
+
+207
+00:10:06,163 --> 00:10:07,323
+<font color="#ffff00">sobre quem está lá e quem não está.</font>
+
+208
+00:10:07,363 --> 00:10:09,723
+<cor da fonte="#ffff00">Diane? Você consegue ver Diane?</font>
+
+209
+00:10:09.763 --> 00:10:11.123
+<font color="#00ffff">Eu não.</font>
+
+210
+00:10:11,163 --> 00:10:15,603
+<font color="#00ffff">Então tem Andrew, Zack... </fonte>
+
+211
+00:10:15.643 --> 00:10:19.083
+<cor da fonte="#00ffff">.. Aubrey e Diane.</font>
+
+212
+00:10:28.803 --> 00:10:31.643
+<font color="#ffff00">Agora estamos reduzidos a essas pessoas</font>
+<font color="#ffff00">e eles não estão na tabela.</font>
+
+213
+00:10:33,923 --> 00:10:36,763
+<font color="#00ffff">Tipo, qualquer um deles, eu vou ser,</font>
+<font color="#00ffff">like, realmente eviscerado.</font>
+
+214
+00:10:36,803 --> 00:10:38,723
+BATA NA PORTA
+
+215
+00:10:45,683 --> 00:10:48,363
+TORCENDO
+
+216
+00:10:51.163 --> 00:10:54.923
+<font color="#00ff00">Aubrey se foi.</font> <font color="#00ffff">Aubrey se foi.</font>
+<font color="#00ffff">Aubrey se foi!</font>
+
+217
+00:10:54,963 --> 00:10:59,603
+<font color="#00ff00">Oh, não! É Aubrey.</font>
+<font color="#00ff00">Aubrey não está aqui.</font>
+
+218
+00:11:00.963 --> 00:11:03.123
+<cor da fonte="#ffff00">Uau!</fonte>
+
+219
+00:11:10.963 --> 00:11:13.283
+<font color="#00ff00">Vou colocar lá fora, Aubrey.</font>
+
+220
+00:11:13.323 --> 00:11:14.883
+<font color="#00ff00">Sinto que ele envia uma mensagem.</font>
+
+221
+00:11:14.923 --> 00:11:16.283
+<font color="#00ffff">Acho que sim.</font>
+
+222
+00:11:16.323 --> 00:11:18.603
+<font color="#00ff00">Não sinto que alguém faria</font>
+<font color="#00ff00">suspeite de nós quatro aqui,</font>
+
+223
+00:11:18.643 --> 00:11:20.083
+<font color="#00ff00">agora, para dizer Aubrey.</font>
+
+224
+00:11:20.123 --> 00:11:22.123
+<font color="#00ff00">Isso os tira do nosso cheiro.</font>
+
+225
+00:11:23.603 --> 00:11:25.443
+<cor da fonte="#ffff00">Oh!</fonte>
+
+226
+00:11:30.323 --> 00:11:33.923
+<font color="#ffff00">"Caro Aubrey, pela ordem do</font>
+<font color="#ffff00">Traidores, vocês foram assassinados.</font>
+
+227
+00:11:33,963 --> 00:11:36,083
+<font color="#ffff00">"Assinado, os traidores." </fonte>
+
+228
+00:11:39.323 --> 00:11:42.923
+<font color="#ffff00">Acho que fui assassinado</font>
+<font color="#ffff00">porque sou muito observador.</font>
+
+229
+00:11:42.963 --> 00:11:46.003
+<font color="#ffff00">Eu era uma ameaça para os Traidores</font>
+<font color="#ffff00">e eles podiam ver isso.</font>
+
+230
+00:11:46.043 --> 00:11:47.443
+<font color="#ffff00">Eu digo o que vejo.</font>
+
+231
+00:11:47,483 --> 00:11:50,523
+<font color="#ffff00">Talvez eu devesse ter mantido</font>
+<font color="#ffff00">quiet ou qualquer outra coisa.</font>
+
+232
+00:11:50,563 --> 00:11:53,003
+<font color="#ffff00">Eles cometeram um grande erro.</font>
+
+233
+00:11:59.083 --> 00:12:01.963
+<font color="#00ffff">Se você pensar bem, eu sinto</font>
+<font color="#00ffff">como isso realmente o torna real agora.</font>
+
+234
+00:12:02.003 --> 00:12:04.763
+<font color="#00ffff">Tínhamos medo de Aubrey, com certeza.</font>
+
+235
+00:12:04.803 --> 00:12:06.323
+<font color="#00ffff">Realmente se resumia a</font>
+
+236
+00:12:06,363 --> 00:12:08,203
+<font color="#00ffff">essa forte aliança entre</font>
+
+237
+00:12:08.243 --> 00:12:11.043
+<font color="#00ffff">Diane, Aubrey e Sonja.</font>
+
+238
+00:12:11.083 --> 00:12:12.883
+<font color="#00ffff">Todas as três pessoas</font>
+
+239
+00:12:12.923 --> 00:12:16.803
+<font color="#00ffff">não tem medo de ir direto</font>
+<font color="#00ffff">em você.</font>
+
+240
+00:12:16.843 --> 00:12:20.563
+<font color="#00ffff">Temos que retirar</font>
+<font color="#00ffff">o link mais forte primeiro.</font>
+
+241
+00:12:20.603 --> 00:12:22.683
+<font color="#00ffff">Isso nos deixou sem escolha</font>
+<font color="#00ffff">mas Aubrey.</font>
+
+242
+00:12:24.443 --> 00:12:26.643
+<font color="#00ff00">Não entendo</font>
+<font color="#00ff00">o motivo por trás disso.</font>
+
+243
+00:12:26.683 --> 00:12:28.283
+<font color="#00ffff">Porque ele se senta e assiste.</font>
+
+244
+00:12:28.323 --> 00:12:29.723
+<font color="#00ffff">Ele sentou e assistiu.</font>
+
+245
+00:12:29.763 --> 00:12:31.083
+<font color="#00ffff">Estou um pouco perturbado</font>
+
+246
+00:12:31.123 --> 00:12:32.643
+<font color="#00ffff">que Aubrey se foi,</font>
+
+247
+00:12:32.683 --> 00:12:34.043
+<font color="#00ffff">Eu gostava muito de Aubrey.</font>
+
+248
+00:12:34.083 --> 00:12:36.363
+<font color="#00ffff">Acho que foi tático.</font>
+
+249
+00:12:36,403 --> 00:12:38,843
+<font color="#ffff00">Mas por que Aubrey?</font> <font color="#00ffff">Eu não</font>
+<font color="#00ffff">sabe. Talvez ele não seja amigo</fonte>
+
+250
+00:12:38.883 --> 00:12:41.363
+<font color="#00ffff">com ele. Talvez quem o enviou</font>
+<font color="#00ffff">down não era companheiro dele.</font>
+
+251
+00:12:41,403 --> 00:12:42,963
+<font color="#ffff00">Eu matei Aubrey,</font>
+
+252
+00:12:43.003 --> 00:12:45.603
+<font color="#ffff00">que foi adorável.</font>
+
+253
+00:12:45,643 --> 00:12:48,363
+<font color="#ffff00">Os bons, como,</font>
+<font color="#ffff00">você obtém um sabor doce.</font>
+
+254
+00:12:48,403 --> 00:12:50,643
+<font color="#ffff00">Você sabe, como muito rico</font>
+<cor da fonte="#ffff00">chocolate.</font>
+
+255
+00:12:51.843 --> 00:12:53.523
+RI MALDOSAMENTE
+
+256
+00:13:05,043 --> 00:13:06,603
+Bom dia a todos.
+
+257
+00:13:06.643 --> 00:13:08.843
+<font color="#00ffff">Morning!</font> <font color="#00ff00">Morning!</font>
+
+258
+00:13:08.883 --> 00:13:11.923
+Mas não é todo mundo, não é?
+<cor da fonte="#00ffff">Nº </fonte> <cor da fonte ="#00ff00">Nº </fonte>
+
+259
+00:13:11.963 --> 00:13:16.923
+Aubrey foi morto,
+a primeira pessoa a ser assassinada.
+
+260
+00:13:16.963 --> 00:13:17.203
+Aubrey foi morto,
+a primeira pessoa a ser assassinada.
+
+261
+00:13:17.243 --> 00:13:19.563
+Mas melhor ele do que você, hein?
+
+262
+00:13:19,603 --> 00:13:22,083
+Vamos derrubá-lo...
+Você se importa de me ajudar?
+
+263
+00:13:22.123 --> 00:13:24.203
+Você vai conseguir o retrato dele
+para baixo para mim?
+
+264
+00:13:24.243 --> 00:13:26.163
+<font color="#00ff00">Oh, vá em frente, Paul.</font>
+
+265
+00:13:28.763 --> 00:13:30.923
+Então, Aubrey foi morto
+
+266
+00:13:30.963 --> 00:13:34.243
+e como é tradição com o primeiro
+pessoa assassinada...
+
+267
+00:13:34.283 --> 00:13:36.283
+<cor da fonte="#00ff00">Oh!</fonte>
+
+268
+00:13:37,323 --> 00:13:39,243
+Já é real?
+
+269
+00:13:39.283 --> 00:13:41.123
+<font color="#00ff00">yes.</font> <font color="#00ffff">yes, now is.</font>
+<font color="#ffff00">sim, é tão real.</font>
+
+270
+00:13:41.163 --> 00:13:43.283
+Porque você não está de férias.
+
+271
+00:13:43,323 --> 00:13:47,683
+Esta noite é o primeiro banimento
+na Távola Redonda.
+
+272
+00:13:47.723 --> 00:13:52.003
+Fiel, esta é a sua chance
+para se livrar de um traidor.
+
+273
+00:13:52.043 --> 00:13:52.683
+Fiel, esta é a sua chance
+para se livrar de um traidor.
+
+274
+00:13:52,723 --> 00:13:56,123
+Você precisa assistir, você precisa
+escutar
+
+275
+00:13:56,163 --> 00:13:59,123
+você precisa absorver tudo.
+Me entende?
+
+276
+00:13:59,163 --> 00:14:02,483
+O jogo já começou.
+
+277
+00:14:02.523 --> 00:14:05.603
+Tenha cuidado para não irritar
+as penas de qualquer um.
+
+278
+00:14:05.643 --> 00:14:10.083
+E nessa nota, eu vou te ver
+Logo do lado de fora para a missão de hoje.
+
+279
+00:14:10.123 --> 00:14:10.483
+E nessa nota, eu vou te ver
+Logo do lado de fora para a missão de hoje.
+
+280
+00:14:10.523 --> 00:14:11.803
+<cor da fonte="#00ffff">Feathers.</font>
+
+281
+00:14:11.843 --> 00:14:13.683
+<font color="#00ff00">Oh, penas! Bom local!</font>
+
+282
+00:14:20.883 --> 00:14:23.563
+<font color="#00ffff">Vou tomar um café.</font>
+<font color="#00ffff">Vou pegar vocês.</font> <font color="#ffff00">Tudo certo.</font>
+
+283
+00:14:23,603 --> 00:14:24,643
+<font color="#00ff00">Para onde todos foram?</font>
+
+284
+00:14:24.683 --> 00:14:26.563
+<font color="#00ff00">Hoje à noite, temos o primeiro</font>
+<font color="#00ff00">Round Table.</font>
+
+285
+00:14:26.603 --> 00:14:28.803
+<font color="#00ff00">Sinto que é mais pressão</font>
+<font color="#00ff00">para os traidores</font>
+
+286
+00:14:28.843 --> 00:14:31.003
+<font color="#00ff00"> porque a verdade que você está escondendo,</font>
+<cor da fonte="#00ff00">basicamente.</font>
+
+287
+00:14:31.043 --> 00:14:33.243
+<font color="#00ff00">Então, meu plano hoje, apenas relaxe,</font>
+
+288
+00:14:33,283 --> 00:14:35,083
+<font color="#00ff00">Não estou tentando fazer com que todos</font>
+<font color="#00ff00">siga-me.</font>
+
+289
+00:14:35,123 --> 00:14:36,923
+<font color="#00ff00">Apenas se pareça com o mocinho,</font>
+<cor da fonte="#00ff00">basicamente.</font>
+
+290
+00:14:38,323 --> 00:14:40,283
+<font color="#00ffff">Está ficando intenso agora.</font>
+
+291
+00:14:40,323 --> 00:14:43,243
+<font color="#ffff00">Foi um pouco opressor lá.</font>
+<font color="#ffff00">Minha mente começou a correr um pouco.</font>
+
+292
+00:14:43,283 --> 00:14:45,163
+<font color="#ffff00">É complicado.</font> <font color="#00ffff">Realmente é.</font>
+
+293
+00:14:45,203 --> 00:14:47,883
+<font color="#00ffff">Acho mais fácil de ver</font>
+<font color="#00ffff">quem não é um... </fonte>
+
+294
+00:14:47,923 --> 00:14:49,443
+<font color="#00ffff">Quem eu acho que é um fiel,</font>
+
+295
+00:14:49,483 --> 00:14:51,523
+<font color="#00ffff">em vez de quem é o traidor</font>
+<font color="#00ffff">neste momento.</font>
+
+296
+00:14:51.563 --> 00:14:53.603
+<font color="#ffff00">That's, essa é uma boa maneira</font>
+<font color="#ffff00">para resolver isso, eu acho.</font>
+
+297
+00:14:53,643 --> 00:14:56,003
+<font color="#00ffff">Porque eu acho que, tipo, há</font>
+<font color="#00ffff">muitas pessoas que eu acho,</font>
+
+298
+00:14:56,043 --> 00:14:58,163
+<font color="#00ffff">"Sim, definitivamente um Fiel." </fonte>
+<font color="#00ffff">Like, Paul,</font>
+
+299
+00:14:58,203 --> 00:14:59,683
+<font color="#00ffff">definitivamente um Fiel, eu acho.</font>
+
+300
+00:15:02,443 --> 00:15:04,843
+<font color="#00ff00">Agora Aubrey foi assassinado,</font>
+<font color="#00ff00">é como, OK,</font>
+
+301
+00:15:04.883 --> 00:15:06.363
+<font color="#00ff00">estamos jogando o jogo agora.</font>
+
+302
+00:15:06,403 --> 00:15:08,723
+<font color="#00ff00">Cérebro de todos</font>
+<font color="#00ff00">entrou em ação depois disso</font>
+
+303
+00:15:08,763 --> 00:15:11,003
+<font color="#00ff00">e especular começou.</font>
+
+304
+00:15:11.043 --> 00:15:12.403
+<font color="#ffff00">Você sabe qual é o meu plano de jogo?</font>
+
+305
+00:15:12.443 --> 00:15:14.083
+<font color="#ffff00">Vou inventar à medida que avança.</font>
+
+306
+00:15:14.123 --> 00:15:15.843
+ELES RIEM
+
+307
+00:15:15.883 --> 00:15:18.123
+<font color="#ffff00">O que mais você vai ...? </fonte>
+<font color="#ffff00">Tipo, o que mais você pode fazer?</font>
+
+308
+00:15:18.163 --> 00:15:20.123
+<font color="#00ff00">Que plano de jogo você pode ter,</font>
+<font color="#00ff00">chegando aqui?</font>
+
+309
+00:15:20.163 --> 00:15:22.403
+<font color="#00ffff">Você só precisa ser você mesmo,</font>
+<font color="#00ffff">a menos que você seja um traidor</font>
+
+310
+00:15:22.443 --> 00:15:25.643
+<font color="#00ffff">e então você não quer ser</font>
+<font color="#00ffff">yourself.</font> <font color="#00ff00">Bem, sim. sim.</fonte>
+
+311
+00:15:28.283 --> 00:15:31.483
+<font color="#00ffff">Então, o que você faz, tipo? Obviamente, </fonte>
+<font color="#00ffff">além de ser um traidor,</font>
+
+312
+00:15:31.523 --> 00:15:33.403
+<font color="#00ffff">você sabe o que quero dizer?</font>
+
+313
+00:15:33,443 --> 00:15:37,043
+<font color="#ffff00">Eu tenho um diploma, uma honra</fonte>
+<cor da fonte="#ffff00">graduação em ciências sociais,</fonte>
+
+314
+00:15:37,083 --> 00:15:41,123
+<font color="#ffff00">que é o estudo de como as pessoas</fonte>
+<cor da fonte="#ffff00">interagir na sociedade.</fonte>
+
+315
+00:15:41.163 --> 00:15:42.683
+<font color="#00ffff">Oh, eu gosto disso.</font>
+
+316
+00:15:42.723 --> 00:15:44.643
+<font color="#00ff00">Esse seria um que você ocultaria,</font>
+<font color="#00ff00">Eu diria.</font>
+
+317
+00:15:44.683 --> 00:15:45.803
+<font color="#ffff00">Oh, eu vim aqui pensando,</font>
+
+318
+00:15:45.843 --> 00:15:47.443
+<font color="#ffff00">"Definitivamente não estou</font>
+<font color="#ffff00">vou dizer isso,"</font>
+
+319
+00:15:47,483 --> 00:15:50,363
+<font color="#ffff00">mas acho que você é muito legal.</font>
+<font color="#ffff00">Provavelmente é,</font>
+<font color="#ffff00">Provavelmente acabei de ir... </fonte>
+
+320
+00:15:50,403 --> 00:15:52,243
+<font color="#ffff00">Percebendo que a primeira pessoa,</font>
+
+321
+00:15:52.283 --> 00:15:54.243
+<font color="#ffff00">pela manhã,</font>
+<font color="#ffff00">no café da manhã, tinha ido embora,</font>
+
+322
+00:15:54.283 --> 00:15:56.483
+<font color="#ffff00">fez com que todas as conversas mudassem.</font>
+
+323
+00:15:56,523 --> 00:15:58,683
+<font color="#ffff00">Não é um feriado grande e longo, isso,</font>
+
+324
+00:15:58.723 --> 00:16:02.003
+<font color="#ffff00">Preciso me organizar</font>
+<font color="#ffff00">e comece a descobrir quem é quem.</font>
+
+325
+00:16:02.043 --> 00:16:04.723
+<font color="#ffff00">Você faz modelagem, Mollie?</font>
+<font color="#00ff00">sim, eu faço modelagem de deficiência.</font>
+
+326
+00:16:04.763 --> 00:16:06.163
+<font color="#ffff00">Oh, e você? Sério?</font>
+<cor da fonte="#00ff00">sim, sim.</fonte>
+
+327
+00:16:06,203 --> 00:16:07,403
+<font color="#00ffff">Como você entrou nisso?</font>
+
+328
+00:16:07,443 --> 00:16:10,443
+<font color="#00ff00">Então, quando eu era mais jovem, </font>
+<font color="#00ff00">Entrei em uma loja</font>
+
+329
+00:16:10.483 --> 00:16:13.123
+<font color="#00ff00">e eu vi uma modelo e ela tinha uma</font>
+<font color="#00ff00">armar e, a partir desse momento, </font>
+
+330
+00:16:13.163 --> 00:16:15.523
+<font color="#00ff00">Eu só me lembro de dizer à minha mãe,</font>
+<font color="#00ff00">like, do jeito que ela me fez</font>
+
+331
+00:16:15.563 --> 00:16:18.363
+<font color="#00ff00">sinto, eu estava tipo, "Eu quero isso</font>
+<font color="#00ff00">seja eu para, tipo, outras pessoas." </fonte>
+
+332
+00:16:18,403 --> 00:16:21,043
+<font color="#00ff00">Então eu faço diferença de membro</font>
+<font color="#00ff00">e depois stomas, hum... </fonte>
+
+333
+00:16:21.083 --> 00:16:23.363
+<font color="#00ffff">O que é stoma?</font>
+<font color="#00ffff">Desculpe, não sei o que é isso.</font>
+
+334
+00:16:23.403 --> 00:16:25.723
+<font color="#00ff00">Quando eu tinha 11 anos, fui diagnosticado</font>
+<font color="#00ff00">com colite ulcerativa</font>
+
+335
+00:16:25.763 --> 00:16:27.963
+<font color="#00ff00">então eles removeram meus dois pontos.</font>
+
+336
+00:16:28,003 --> 00:16:31,243
+<font color="#00ff00">Então eu tenho, tipo, uma bolsa que, tipo, </font>
+<font color="#00ff00">coleta todo o meu lixo.</font>
+
+337
+00:16:31,283 --> 00:16:32,843
+<font color="#00ff00">Obviamente, aos 18 anos, </font>
+
+338
+00:16:32,883 --> 00:16:35,083
+<font color="#00ff00">ser informado de que você está </font>
+<font color="#00ff00"> terá, tipo, uma bolsa</fonte>
+
+339
+00:16:35.123 --> 00:16:37.683
+<font color="#00ff00">grudou em você pelo resto do seu</fonte>
+<font color="#00ff00">life, de repente você está pensando</font>
+
+340
+00:16:37.723 --> 00:16:39.083
+<font color="#00ff00">"Oh, meu Deus, eu nunca sou, tipo, </font>
+
+341
+00:16:39,123 --> 00:16:41,203
+<font color="#00ff00">"vai ser capaz de usar</font>
+<font color="#00ff00">qualquer coisa de novo,</font>
+
+342
+00:16:41,243 --> 00:16:43,003
+<font color="#00ff00">"nunca será capaz de nadar</font>
+<font color="#00ff00">novamente, como,</font>
+
+343
+00:16:43,043 --> 00:16:44,403
+<font color="#00ff00">"nunca mais arrume um namorado." </fonte>
+
+344
+00:16:44.443 --> 00:16:45.603
+<font color="#00ff00">Mas, sim, não, quero dizer,</font>
+
+345
+00:16:45,643 --> 00:16:48,243
+<font color="#00ff00">é por isso que foi bom fazer isso</font>
+<font color="#00ff00">desafio de natação ontem.</font>
+
+346
+00:16:48.283 --> 00:16:49.483
+<font color="#00ff00">Então é isso.</font>
+
+347
+00:16:53,563 --> 00:16:54,803
+<font color="#00ff00">Minha cabeça está perplexa.</font>
+
+348
+00:16:54,843 --> 00:16:56,563
+<font color="#00ff00">Já ouvi muito,</font>
+<font color="#00ff00">tanto bitching.</font>
+
+349
+00:16:56.603 --> 00:16:59.323
+<font color="#ffff00">Não, é uma fonte de alta pressão</>
+<cor da fonte="#ffff00">ambiente, man.</font>
+<font color="#ffff00">Acho que nenhum... </fonte>
+
+350
+00:16:59,363 --> 00:17:01,403
+<font color="#ffff00">Ninguém está acostumado com isso, você sabe</font>
+<font color="#ffff00">o que quero dizer?</font>
+
+351
+00:17:01.443 --> 00:17:03.363
+<font color="#ffff00">Mas você não pode ajudar</font>
+<font color="#ffff00">mas seja sugado, man.</font>
+
+352
+00:17:03,403 --> 00:17:04,483
+<font color="#00ff00">O que você está pensando?</font>
+
+353
+00:17:04,523 --> 00:17:06,963
+<font color="#ffff00">E também, não posso deixar de dizer</font>
+<font color="#ffff00">minha peça, você sabe o que quero dizer?</font>
+
+354
+00:17:07.003 --> 00:17:11.163
+<font color="#ffff00">Então, tive uma pequena situação ontem</font>
+<font color="#ffff00">onde Zack disse para mim e Evie,</font>
+
+355
+00:17:11,203 --> 00:17:13,803
+<font color="#ffff00">ele disse: "Vou dormir</font>
+<font color="#ffff00">bem, esta noite, certo?" </fonte>
+
+356
+00:17:13.843 --> 00:17:15.603
+<font color="#ffff00">Ele apenas conversa merda.</font>
+
+357
+00:17:15.643 --> 00:17:18.003
+<font color="#ffff00">Não acho que Zack seja um traidor,</font>
+<cor da fonte="#ffff00">mate.</font>
+
+358
+00:17:18.043 --> 00:17:19.883
+<font color="#ffff00">Eu não acho - ele não mudou.</font>
+<font color="#00ff00">Você não acha?</font>
+
+359
+00:17:19.923 --> 00:17:23.483
+<font color="#ffff00">Mas então eu e Evie, no carro, </font>
+<font color="#ffff00">trouxe à tona que Zack disse isso,</font>
+
+360
+00:17:23.523 --> 00:17:26.803
+<font color="#ffff00">mas então todos nós coletivamente</font>
+<font color="#ffff00"> eram como, "Oh, mas é só ele". </fonte>
+
+361
+00:17:26.843 --> 00:17:29.083
+<font color="#ffff00">Ele é inteligente o suficiente para </fonte>
+<font color="#ffff00">não deixaria escapar.</font>
+
+362
+00:17:29.123 --> 00:17:31.603
+<font color="#ffff00">A próxima coisa que eu sei, estamos tendo</font>
+<font color="#ffff00">dinner e Sonja está lá</font>
+
+363
+00:17:31.643 --> 00:17:34.203
+<font color="#ffff00">indo, "Sim, diga a eles a coisa</font>
+<font color="#ffff00">que você disse sobre Zack." </fonte>
+
+364
+00:17:34.243 --> 00:17:35.643
+<font color="#ffff00">E eu digo: "O que, essa coisa</fonte>
+
+365
+00:17:35,683 --> 00:17:37,923
+<font color="#ffff00">"que dissemos que não iríamos</font>
+<font color="#ffff00">para contar às pessoas?" </fonte>
+
+366
+00:17:37.963 --> 00:17:40.443
+<font color="#00ffff">Ross, aquela conversa que tivemos</font>
+<font color="#00ffff">no carro, alguém dizendo,</font>
+
+367
+00:17:40,483 --> 00:17:42,483
+<font color="#00ffff">"Vou dormir tranquilo esta noite." </fonte>
+
+368
+00:17:42.523 --> 00:17:45.403
+<font color="#ffff00">Ah, sim, esse foi Zacky-boy.</font>
+
+369
+00:17:45,443 --> 00:17:47,043
+<font color="#ffff00">Então, estou pensando agora,</font>
+
+370
+00:17:47,083 --> 00:17:50,563
+<font color="#ffff00">ela está começando a mexer na panela</font>
+<cor da fonte="#ffff00">um pouco.</font>
+
+371
+00:17:50,603 --> 00:17:53,043
+<font color="#ffff00">Ela se parece com o tipo,</font>
+<font color="#ffff00">não é?</font>
+
+372
+00:17:58,523 --> 00:17:59,963
+<cor da fonte="#00ff00">sim.</fonte>
+
+373
+00:18:00.003 --> 00:18:01.083
+<font color="#ffff00">No início do jogo,</font>
+
+374
+00:18:01.123 --> 00:18:03.683
+<font color="#ffff00">quando as pessoas estão procurando por any</font>
+<cor da fonte="#ffff00">pequeno petisco</fonte>
+
+375
+00:18:03.723 --> 00:18:07.363
+<font color="#ffff00">to, para se agarrar, </font>
+<font color="#ffff00">quando você for visto mexendo na panela,</font>
+
+376
+00:18:07,403 --> 00:18:10,403
+<font color="#ffff00">para mim, isso grita traidor</font>
+<font color="#ffff00">behaviour.</font>
+
+377
+00:18:10.443 --> 00:18:14.363
+<font color="#ffff00">Na verdade, não tenho outro sólido</font>
+<font color="#ffff00">evidência para qualquer outra pessoa disparar,</font>
+
+378
+00:18:14.403 --> 00:18:16.283
+<font color="#ffff00">então eu acho que é Sonja</font>
+<font color="#ffff00">neste momento.</font>
+
+379
+00:18:18.763 --> 00:18:21.403
+<font color="#ffff00">Se alguém entrar aqui,</font>
+<font color="#ffff00">e eu tenho uma voz alta... </fonte>
+
+380
+00:18:21.443 --> 00:18:24.043
+<font color="#00ff00">Tipo, vamos inventar algo</font>
+<font color="#00ff00">de que estamos falando.</font>
+
+381
+00:18:24.083 --> 00:18:25.323
+<cor da fonte="#ffff00">OK.</font>
+
+382
+00:18:25.363 --> 00:18:27.723
+<font color="#ffff00">Eu não me dou bem com Anthony.</font>
+
+383
+00:18:27.763 --> 00:18:29.963
+<cor da fonte="#ffff00">OK. Ele não se dá bem comigo.</font>
+
+384
+00:18:30.003 --> 00:18:32.083
+<font color="#ffff00">Olhei para todos quando eles vieram</font>
+
+385
+00:18:32.123 --> 00:18:34.763
+<font color="#ffff00">e eu pensei que poderia</font>
+<font color="#ffff00">possivelmente ser pessoas que</font>
+<font color="#ffff00">pode ser um Traitor.</font>
+
+386
+00:18:34,803 --> 00:18:36,803
+<font color="#ffff00">Na verdade, pensei que você poderia</font>
+<font color="#ffff00">ser capaz de fazer isso.</font> <font color="#00ffff">OK.</font>
+
+387
+00:18:36,843 --> 00:18:38,883
+<font color="#ffff00">Não porque eu acho que você está </font>
+<font color="#ffff00">horrível ou qualquer coisa,</font>
+
+388
+00:18:38.923 --> 00:18:41.563
+<font color="#ffff00"> porque pensei que você jogaria</font>
+<font color="#ffff00">um bom jogo.</font> <font color="#00ffff">Terrível. Continue.</font>
+
+389
+00:18:41,603 --> 00:18:43,923
+<font color="#ffff00">Jogue bons jogos, certo?</font>
+<font color="#00ffff">Concordo com você, para ser justo.</font>
+
+390
+00:18:43.963 --> 00:18:46.363
+<font color="#ffff00">De qualquer forma, então você assiste egos</font>
+<font color="#ffff00">e você assiste, você sabe,</font>
+
+391
+00:18:46,403 --> 00:18:47,803
+<font color="#ffff00">a maneira como as pessoas se comportam,</font>
+
+392
+00:18:47.843 --> 00:18:49.883
+<font color="#ffff00">e a primeira coisa que aconteceu</font>
+<font color="#ffff00">para nós</font>
+
+393
+00:18:49.923 --> 00:18:52.003
+<font color="#ffff00">quando entramos nessa linha</font>
+<font color="#ffff00">para Claudia sair,</font>
+
+394
+00:18:52.043 --> 00:18:53.523
+<font color="#ffff00">Tentei ficar no meio</font>
+
+395
+00:18:53,563 --> 00:18:55,803
+<font color="#ffff00"> porque eu não queria ir para uma extremidade</font>
+<font color="#ffff00">ou o outro.</font>
+
+396
+00:18:55,843 --> 00:18:57,883
+<font color="#ffff00">Certo, pessoal, podemos passar?</font>
+
+397
+00:18:57,923 --> 00:18:59,923
+<font color="#00ff00">Você pode mover dessa maneira</font>
+<font color="#00ff00">se quiser.</font>
+
+398
+00:18:59,963 --> 00:19:02,083
+<font color="#ffff00">Não, estou muito feliz em mover isso</font>
+<font color="#ffff00">way, thanti.</font>
+
+399
+00:19:02.123 --> 00:19:04.283
+<font color="#ffff00">E tentei entrar fisicamente.</font>
+
+400
+00:19:04.323 --> 00:19:06.723
+<font color="#ffff00">Anthony estava lá</font>
+<font color="#ffff00">e ele não me deixou entrar.</font>
+
+401
+00:19:06.763 --> 00:19:08.603
+<font color="#ffff00">Ele tem um ego.</font>
+<font color="#00ffff">Há o ego, talvez, sim.</font>
+
+402
+00:19:08.643 --> 00:19:11.283
+<font color="#ffff00">E eu só acho que ele pensa: "Isso vai</font>
+<font color="#ffff00">seja bom, eu poderia ser um traidor." </fonte>
+
+403
+00:19:11.323 --> 00:19:13.283
+<font color="#ffff00">Olha, qualquer um pode ser um traidor,</font>
+<font color="#ffff00">vamos enfrentá-lo,</font>
+
+404
+00:19:13.323 --> 00:19:15.683
+<font color="#ffff00">e eu também poderia estar sentado conversando</font>
+<font color="#ffff00">para pessoas que são traidores, como,</font>
+
+405
+00:19:15.723 --> 00:19:17.323
+<font color="#ffff00">que eu acho que são muito amigáveis,</font>
+
+406
+00:19:17.363 --> 00:19:18.963
+<font color="#ffff00">mas continuarei a ser</font>
+
+407
+00:19:19.003 --> 00:19:20.603
+<font color="#ffff00">suspeito de Anthony.</font>
+
+408
+00:19:20.643 --> 00:19:22.443
+<font color="#ffff00">Acho que ele está fazendo uma boa atuação</font>
+
+409
+00:19:22.483 --> 00:19:24.083
+<font color="#ffff00">e acho que ele poderia</font>
+
+410
+00:19:24.123 --> 00:19:25.163
+<font color="#ffff00">jogar um jogo.</font>
+
+411
+00:19:25,203 --> 00:19:29,883
+<font color="#00ffff">Anthony e Andrew nunca conversam,</font>
+<font color="#00ffff">então eles estão ficando separados?</font>
+
+412
+00:19:29,963 --> 00:19:31,963
+<font color="#00ff00">sim, eu nunca os vi, </font>
+
+413
+00:19:32.003 --> 00:19:33.683
+<font color="#00ff00">Eu nunca os vi realmente conversando</font>
+<font color="#00ff00">também.</font>
+
+414
+00:19:33.723 --> 00:19:35.683
+<font color="#00ffff">Acho que é três.</font>
+<font color="#ffff00"> o mesmo acontece com I.</font>
+
+415
+00:19:35.723 --> 00:19:38.283
+<font color="#ffff00">E a próxima é feminina,</font>
+<font color="#ffff00">provavelmente, então continue.</font> <font color="#00ffff">Seria feminino.</font>
+
+416
+00:19:38.323 --> 00:19:39.723
+<font color="#00ffff">Eu não tenho uma mulher.</font>
+
+417
+00:19:39.763 --> 00:19:41.243
+<font color="#ffff00">Oh, você não tem?! </font> <font color="#00ffff">No.</font>
+
+418
+00:19:41.283 --> 00:19:43.923
+<font color="#ffff00">Então você não notou uma fonte feminina</>
+<font color="#ffff00">com a qual Anthony conversa?</font>
+
+419
+00:19:43,963 --> 00:19:45,683
+<font color="#00ffff">Não. Vá em frente.</font>
+
+420
+00:19:45.723 --> 00:19:47.643
+<cor da fonte="#ffff00">Ash.</font>
+
+421
+00:19:47,683 --> 00:19:48,683
+<cor da fonte="#00ff00">Sério?</fonte>
+
+422
+00:19:48,723 --> 00:19:50,363
+<cor da fonte="#00ffff">Ash.</font> <font color="#ffff00">Mm.</font>
+
+423
+00:19:50,403 --> 00:19:52,323
+<font color="#00ff00">Eu sinto que ela só fala</font>
+<font color="#00ff00">everyone, though.</font>
+
+424
+00:19:52,363 --> 00:19:54,323
+<font color="#00ffff">Não, na verdade não.</font> <font color="#ffff00">Não, ela não.</font>
+<font color="#00ff00">Ela não?</font> <font color="#ffff00">No.</font>
+
+425
+00:19:54.363 --> 00:19:56.003
+<font color="#00ffff">Diane já está indo, você sabe,</font>
+
+426
+00:19:56.043 --> 00:19:58.283
+<font color="#00ffff">"Ash é o tipo de alguém que</fonte>
+<font color="#00ffff">Estou de olho,"</font>
+
+427
+00:19:58,323 --> 00:19:59,763
+<font color="#00ffff">e eu estava pensando,</font>
+
+428
+00:19:59,803 --> 00:20:01,563
+<font color="#00ffff">"Você está ligado de,</font>
+
+429
+00:20:01,603 --> 00:20:05,043
+<font color="#00ffff">"tipo, o começo." O fato de que</fonte>
+<font color="#00ffff">ela estava fazendo isso</font>
+
+430
+00:20:05.083 --> 00:20:06.323
+<font color="#00ffff">está levantando preocupações.</font>
+
+431
+00:20:14.643 --> 00:20:18.523
+Nossos jogadores estão se reunindo
+para a segunda missão do jogo.
+
+432
+00:20:18,563 --> 00:20:22,203
+Esta é uma chance para ambos os traidores
+e Fiéis para trabalhar juntos
+
+433
+00:20:22.243 --> 00:20:26.203
+para ganhar dinheiro, que será
+adicionado ao pote de prêmios final.
+
+434
+00:20:26.243 --> 00:20:27.523
+Olá!
+
+435
+00:20:27.563 --> 00:20:29.323
+<font color="#ffff00">Sim, tempo da missão.</font>
+
+436
+00:20:29,363 --> 00:20:31,363
+<font color="#ffff00">Eu absolutamente amo as missões.</font>
+
+437
+00:20:31,403 --> 00:20:33,643
+<font color="#ffff00">É bom se jogar</font>
+<font color="#ffff00">algo físico e apenas tenha</font>
+
+438
+00:20:33.683 --> 00:20:34.963
+<font color="#ffff00">uma pausa do think,</font>
+<cor da fonte="#ffff00">pense, pense.</fonte>
+
+439
+00:20:35.003 --> 00:20:38.803
+<font color="#00ffff">Minha estratégia em todas as missões é</font>
+<font color="#00ffff">jogue como um Fiel,</font>
+
+440
+00:20:38.843 --> 00:20:40.843
+<font color="#00ffff">você parece um Fiel,</font>
+
+441
+00:20:40.883 --> 00:20:43.323
+<font color="#00ffff">você convence a todos</font>
+<font color="#00ffff">você é um fiel.</font>
+
+442
+00:20:43.363 --> 00:20:48.483
+Jogadores, a missão de hoje é
+tudo sobre comunicação.
+
+443
+00:20:48,523 --> 00:20:49,163
+Jogadores, a missão de hoje é
+tudo sobre comunicação.
+
+444
+00:20:49,203 --> 00:20:50,563
+Se você tiver sucesso,
+
+445
+00:20:50,603 --> 00:20:54,043
+Você pode ganhar até £ 6.000.
+
+446
+00:20:54,083 --> 00:20:55,843
+Isso será adicionado ao fundo de prêmios.
+
+447
+00:20:55,883 --> 00:20:57,163
+<font color="#ffff00">Nice!</font> <font color="#00ffff">Ooh!</font>
+
+448
+00:20:57,203 --> 00:21:00,803
+O que eu preciso que você faça primeiro
+é dividido em dois.
+
+449
+00:21:00.843 --> 00:21:03.363
+Nove pessoas estão no castelo
+borra
+
+450
+00:21:03.403 --> 00:21:07.563
+e o resto de vocês serão
+dentro do castelo.
+
+451
+00:21:07.603 --> 00:21:09.523
+Uma palavra de advertência.
+
+452
+00:21:09.563 --> 00:21:14.043
+Apenas os nove que estão do lado de fora
+terá a oportunidade de agarrar
+
+453
+00:21:14.083 --> 00:21:15.803
+Apenas os nove que estão do lado de fora
+terá a oportunidade de agarrar
+
+454
+00:21:15.843 --> 00:21:20.363
+um escudo e, portanto, proteger
+do assassinato desta noite.
+
+455
+00:21:20.403 --> 00:21:20.563
+um escudo e, portanto, proteger
+do assassinato desta noite.
+
+456
+00:21:22.723 --> 00:21:25.923
+Eu preciso de nove aqui,
+o resto de vocês lá. Vamos.
+
+457
+00:21:25.963 --> 00:21:29.323
+<font color="#ffff00">Vamos escolher pessoas em forma na </font>
+<font color="#ffff00">field?</font> <font color="#00ffff">Vamos descer pelo meio?</font>
+<font color="#00ff00">Vamos para o meio?</font>
+
+458
+00:21:29.363 --> 00:21:32.363
+<font color="#ffff00">Para ser honesto, acho que as pessoas</font>
+<font color="#ffff00">outside estarão em execução</font>
+<font color="#ffff00">around.</font> <font color="#00ffff">Posso executar about.</font>
+
+459
+00:21:32.403 --> 00:21:34.363
+<font color="#ffff00">Acho que dizemos também pessoas que</font>
+<font color="#ffff00">ainda não tive um Shield,</font>
+
+460
+00:21:34,403 --> 00:21:36,803
+<font color="#ffff00">talvez fique dentro.</font> <font color="#00ffff">Eu não tive um</font>
+<cor da fonte="#00ffff">Shield.</font>
+
+461
+00:21:36.843 --> 00:21:39.603
+<font color="#00ffff">Eu não me importo com o Shield. I</font>
+<font color="#00ffff">quero fazer a missão, pessoal.</font> <font color="#00ff00">Pessoas</font>
+<font color="#00ff00">que tinha um escudo dentro.</font>
+
+462
+00:21:39.643 --> 00:21:41.483
+<font color="#00ffff">As pessoas que tinham Shields ficam dentro.</font>
+<font color="#ffff00">Acho que você não deveria falar</font>
+
+463
+00:21:41.523 --> 00:21:44.363
+<font color="#ffff00">assim. Eu sinto que o que é< / fonte>
+<font color="#ffff00">os pontos fortes das pessoas? Exatamente.</font>
+<font color="#ffff00">Não é sobre isso.</font>
+
+464
+00:21:44,403 --> 00:21:48,123
+<font color="#ffff00">Se você estiver fisicamente apto... </fonte>
+<font color="#00ffff">Mas todos devem sair,</font>
+<font color="#00ffff">é o que estou dizendo.</font>
+
+465
+00:21:48.163 --> 00:21:50.163
+<font color="#00ffff">A maneira como escolhemos não era </font>
+<font color="#00ffff">provavelmente o mais democrático.</font>
+
+466
+00:21:50,203 --> 00:21:52,683
+<font color="#00ffff">Por que Kyra e Harry,</font>
+<font color="#00ffff">as pessoas que já têm</font>
+
+467
+00:21:52.723 --> 00:21:55.003
+<font color="#00ffff">a Shield, tenha</font>
+<font color="#00ffff">a oportunidade de obter um escudo?</font>
+
+468
+00:21:55,043 --> 00:21:57,203
+<font color="#00ffff">Acho que não ser um jogador de equipe</font>
+<font color="#00ffff">é tão ruim quanto</font>
+
+469
+00:21:57.243 --> 00:22:00.683
+<font color="#00ffff">como sendo um traidor no momento.</font>
+<font color="#00ffff">Não gosto nada do egoísmo.</font>
+
+470
+00:22:00,723 --> 00:22:05,003
+<font color="#ffff00">É sobre obter... Obtendo isso</font>
+<font color="#ffff00">cash for all of us.</font> <font color="#00ff00">I don't care.</font>
+
+471
+00:22:05.043 --> 00:22:05.163
+<font color="#ffff00">É sobre obter... Obtendo isso</font>
+<font color="#ffff00">cash for all of us.</font> <font color="#00ff00">I don't care.</font>
+
+472
+00:22:05,203 --> 00:22:07,443
+Pessoal, vocês têm que escolher,
+Vamos fazer isso.
+
+473
+00:22:07.483 --> 00:22:09.923
+<font color="#ffff00">Precisamos de mais um</font>
+<font color="#ffff00">person deste lado.</font>
+
+474
+00:22:09,963 --> 00:22:11,923
+<font color="#00ffff">Como diabos estão</font>
+<font color="#00ffff">pretendíamos encontrar Traitors</font>
+
+475
+00:22:11.963 --> 00:22:14.643
+<font color="#00ffff">se não conseguirmos nem concordar com quem</font>
+<font color="#00ffff">entra e quem sai?</font>
+
+476
+00:22:14.683 --> 00:22:16.763
+<font color="#00ffff">Quero dizer, vamos lá.</font>
+
+477
+00:22:18.843 --> 00:22:20.923
+OK, então esses são os nove.
+
+478
+00:22:20.963 --> 00:22:22.483
+Todo mundo está feliz?
+
+479
+00:22:22.523 --> 00:22:23.643
+<cor da fonte="#ffff00">sim.</fonte> <cor da fonte="#00ffff">sim.</fonte>
+
+480
+00:22:23.683 --> 00:22:25.763
+Zack, você não está feliz.<font color="#00ff00">No.</font>
+
+481
+00:22:25.803 --> 00:22:28.483
+Quem... Você gostaria de trocar
+com alguém?<font color="#00ff00">Não, estou bem.</font>
+
+482
+00:22:28.523 --> 00:22:30.323
+<font color="#ffff00">Dê sua opinião.</font>
+<font color="#00ff00">Não, estou bem, estou bem.</font>
+
+483
+00:22:30.363 --> 00:22:32.363
+<font color="#ffff00">Zack sentiu que eu e Harry </font>
+<font color="#ffff00">deveria ter ficado dentro</font>
+
+484
+00:22:32,403 --> 00:22:34,003
+<font color="#ffff00">e dado a outra pessoa</font>
+<cor da fonte="#ffff00">uma oportunidade.</font>
+
+485
+00:22:34.043 --> 00:22:36.283
+<font color="#ffff00">Está dando muitas vibrações de traidor</font>
+<font color="#ffff00">que ele está chateado</font>
+
+486
+00:22:36.323 --> 00:22:38.403
+<font color="#ffff00">porque continuo recebendo o</font>
+<font color="#ffff00">oportunidade de ter um Shield</font>
+
+487
+00:22:38,443 --> 00:22:40,403
+<font color="#ffff00">e é, tipo, de volta ao inferno.</font>
+
+488
+00:22:40,443 --> 00:22:43,603
+<font color="#00ffff">Esqueça os escudos,</font>
+<font color="#00ffff">let's build the money.</font> <font color="#ffff00">Devemos</font>
+<font color="#ffff00">basta construir o pote, sim?</font>
+
+489
+00:22:43.643 --> 00:22:46.323
+<font color="#ffff00">Vamos lá, nós conseguimos, pessoal. Não </fonte>
+<font color="#ffff00">matter, vamos lá.</font> <font color="#00ffff">Esqueça.</font>
+
+490
+00:22:46.363 --> 00:22:49.203
+Bem dito, Charlotte.<font color="#ffff00">Obrigado.</font>
+OKEY. Deixe-me falar sobre a tarefa.
+
+491
+00:22:49.243 --> 00:22:52.083
+Os belos jardins do castelo
+
+492
+00:22:52.123 --> 00:22:55.643
+têm muitos pássaros exóticos.
+
+493
+00:22:55,683 --> 00:23:00,243
+Você ouvirá uma variedade de seus
+chamadas em todo o terreno.
+
+494
+00:23:00,283 --> 00:23:00,483
+Você ouvirá uma variedade de seus
+chamadas em todo o terreno.
+
+495
+00:23:00,523 --> 00:23:04,003
+Vocês nove devem agora
+Entre em equipes de três.
+
+496
+00:23:04.043 --> 00:23:07.363
+Seu trabalho será encontrar os pássaros.
+
+497
+00:23:07,403 --> 00:23:11,923
+Você então terá que imitar
+o canto dos pássaros para aqueles
+
+498
+00:23:11.963 --> 00:23:13.723
+que estão no castelo.
+
+499
+00:23:13.763 --> 00:23:18.323
+No castelo, seu trabalho é encontrar
+A réplica correta
+
+500
+00:23:18.363 --> 00:23:18.403
+No castelo, seu trabalho é encontrar
+A réplica correta
+
+501
+00:23:18.443 --> 00:23:19.763
+e traga-o para mim.
+
+502
+00:23:19.803 --> 00:23:21.163
+CANTOS DE PÁSSAROS
+
+503
+00:23:21,203 --> 00:23:22,843
+Eles têm nomes.
+
+504
+00:23:22.883 --> 00:23:25.483
+Deixe-me apresentá-lo a Beaky.
+
+505
+00:23:25.523 --> 00:23:28.323
+PÁSSARO:<font color="#ffff00">Cock-a-doodle-doo.</font>
+RISO
+
+506
+00:23:28.363 --> 00:23:32.523
+Você tem apenas uma chance
+cada canto de pássaro.
+
+507
+00:23:32,563 --> 00:23:34,403
+OK, então nossas três equipes,
+
+508
+00:23:34.443 --> 00:23:38.763
+Cada um de vocês receberá um mapa
+dos locais de nidificação
+
+509
+00:23:38.803 --> 00:23:40.243
+dos pássaros.
+
+510
+00:23:43.003 --> 00:23:47.283
+Nesses mapas também há
+o local de nidificação do muito
+
+511
+00:23:47,323 --> 00:23:49,963
+pássaro raro Shield.
+
+512
+00:23:50.003 --> 00:23:53.123
+Se você decidir ter tempo
+fora da missão
+
+513
+00:23:53,163 --> 00:23:56,723
+e pode fazer com que o grupo do castelo
+identificá-lo corretamente,
+
+514
+00:23:56,763 --> 00:24:01,203
+você vai ganhar automaticamente
+três escudos.
+
+515
+00:24:01.243 --> 00:24:03.683
+Você tem 25 minutos para fazer isso,
+
+516
+00:24:03,723 --> 00:24:04,963
+mas eu tenho fé.
+
+517
+00:24:06,843 --> 00:24:10,483
+Observadores de pássaros, por favor, vão
+e fique em suas posições iniciais.
+
+518
+00:24:10.523 --> 00:24:12.563
+O resto de vocês, você vem comigo.
+Sem essa.
+
+519
+00:24:18,163 --> 00:24:20,203
+<font color="#00ffff">Boa sorte, pessoal!</font> <font color="#00ff00">Boa sorte!</font>
+<font color="#ffff00">Boa sorte, pessoal!</font>
+
+520
+00:24:20.243 --> 00:24:22.843
+<font color="#00ffff">Acho que as missões são fundamentais</font>
+<font color="#00ffff">para descobrir</font>
+
+521
+00:24:22.883 --> 00:24:25.163
+<font color="#00ffff">o verdadeiro eu das pessoas.</font>
+
+522
+00:24:25,203 --> 00:24:27,643
+<font color="#00ffff">Em ambientes estressantes,</font>
+<font color="#00ffff">é quando as pessoas mostram</font>
+
+523
+00:24:27.683 --> 00:24:29.043
+<font color="#00ffff">suas cores verdadeiras.</font>
+
+524
+00:24:33.523 --> 00:24:35.763
+Todos prontos?
+ALL:<font color="#ffff00">Yes!</font>
+
+525
+00:24:35,803 --> 00:24:37,363
+<font color="#00ffff">Nós somos!</font> <font color="#00ff00">Nós somos!</font>
+
+526
+00:24:37,403 --> 00:24:38,963
+<font color="#ffff00">Claudia, nascemos prontos.</font>
+
+527
+00:24:39.003 --> 00:24:41.123
+<font color="#00ffff">Jas para Claudia,</font>
+<font color="#00ffff">estamos prontos para fazer barulho.</font>
+
+528
+00:24:41.163 --> 00:24:42.323
+NO RÁDIO: Enorme sorte.
+
+529
+00:24:42.363 --> 00:24:45.043
+Por £ 6.000,
+
+530
+00:24:45,083 --> 00:24:46,163
+Três
+
+531
+00:24:46,203 --> 00:24:47,403
+Dois
+
+532
+00:24:47,443 --> 00:24:49,483
+Um.
+
+533
+00:24:49.523 --> 00:24:50.563
+Ir!
+
+534
+00:24:52.883 --> 00:24:53.963
+<font color="#ffff00">Então estamos aqui, sim?</font> <font color="#00ffff">yes.</font>
+
+535
+00:24:54.003 --> 00:24:56.683
+<font color="#ffff00">Então, se seguirmos direto por esse caminho,</font>
+<font color="#ffff00">look.</font> <font color="#00ffff">Estará lá.</font> <font color="#ffff00">All the way.</font>
+
+536
+00:24:56.723 --> 00:24:58.403
+<font color="#ffff00">Temos uma de nossas cabanas lá.</font>
+<cor da fonte="#00ffff">sim, sim.</fonte>
+
+537
+00:24:58.443 --> 00:25:01.363
+<font color="#00ff00">O castelo está assim.</font> <font color="#ffff00">yes.</font>
+<font color="#ffff00">Então fazemos isso primeiro?</font>
+<font color="#00ff00">Vamos, então.</font> <font color="#ffff00">Vamos.</font>
+
+538
+00:25:01.403 --> 00:25:02.763
+<font color="#00ffff">Direto, é para onde vai.</font>
+
+539
+00:25:02.803 --> 00:25:04.323
+<font color="#00ffff">Vamos lá pessoal, nós temos isso.</font>
+<font color="#00ffff">Smash it.</font>
+
+540
+00:25:06.923 --> 00:25:09.283
+<font color="#00ff00">Aqui!</font> <font color="#ffff00">yes.</font> <font color="#00ff00">The Marshes.</font> <font color="#00ffff">yes.</font>
+<font color="#00ffff">Onde estão as instruções?</font>
+
+541
+00:25:09.323 --> 00:25:11.403
+<font color="#ffff00">Vá, vá, vá. Direto na frente.</font>
+
+542
+00:25:11.443 --> 00:25:13.043
+<font color="#00ffff">"Para ouvir o canto deste pássaro,</font>
+
+543
+00:25:13.083 --> 00:25:16.723
+<font color="#00ffff">"sopre os apitos simultaneamente</font>
+<font color="#00ffff">dentro por três segundos." </fonte>
+
+544
+00:25:16.763 --> 00:25:18.723
+APITO DE BUZINA
+
+545
+00:25:18.763 --> 00:25:20.123
+<font color="#00ffff">Tivemos que ir para o</font>
+
+546
+00:25:20.163 --> 00:25:21.723
+<font color="#00ffff">bird derrama no mapa,</font>
+
+547
+00:25:21.763 --> 00:25:24.363
+<font color="#00ffff"> assobie e depois</font>
+<font color="#00ffff">você ouviria</font>
+
+548
+00:25:24.403 --> 00:25:25.843
+<font color="#00ffff">o canto do pássaro.</font>
+
+549
+00:25:25,883 --> 00:25:28,683
+PÁSSARO CHAMA RITMICAMENTE
+
+550
+00:25:28.723 --> 00:25:31.163
+<font color="#00ff00">Isso é um pássaro?</font> <font color="#00ffff">Isso era um pássaro</font>
+<font color="#00ffff">ou um cachorro?</font>
+PÁSSARO CHAMA RITMICAMENTE
+
+551
+00:25:31,203 --> 00:25:34,483
+<font color="#ffff00">Esse é o pássaro.</font> <font color="#00ffff">Esse é o pássaro,</font>
+<font color="#00ffff">esse é o pássaro. OK.</font> <font color="#ffff00">Melhor continuar</font>
+<font color="#ffff00">o rádio then.</font>
+
+552
+00:25:34,523 --> 00:25:38,483
+<font color="#00ffff">E então imite o canto do pássaro</font>
+<font color="#00ffff">de volta ao castelo.</font>
+
+553
+00:25:38.523 --> 00:25:40.883
+<font color="#00ffff">Equipe verde nos pântanos,</font>
+<font color="#00ffff">você pode me ouvir?</font>
+
+554
+00:25:40,923 --> 00:25:42,323
+<font color="#00ff00">Podemos ouvir você.</font>
+
+555
+00:25:42.363 --> 00:25:44.483
+<font color="#00ffff">OK, o som é... </fonte>
+
+556
+00:25:44.523 --> 00:25:47.403
+ELA IMITA O CHAMADO RÍTMICO
+
+557
+00:25:47,443 --> 00:25:50,843
+<cor da fonte="#00ffff">Uh-roo! Uh-roo!</font>
+<font color="#00ffff">Foi tão embaraçoso.</font>
+
+558
+00:25:50,883 --> 00:25:53,483
+CHAMADA RÍTMICA
+<font color="#ffff00">Onde eles estão?</font> <font color="#00ffff">Vamos, vamos, vamos.</font>
+
+559
+00:25:53,523 --> 00:25:55,323
+<font color="#00ffff">Era como algumas</fonte>
+<font color="#00ffff">tipo de cachorro doente.</font>
+
+560
+00:25:55,363 --> 00:25:56,763
+<cor da fonte="#00ffff">Ruff! Ruff!</font>
+
+561
+00:25:56,803 --> 00:25:59,723
+<font color="#ffff00">Corra, corra, corra, corra!</font>
+
+562
+00:25:59,763 --> 00:26:00,923
+Vamos, filho.
+
+563
+00:26:02.283 --> 00:26:04.763
+<font color="#00ffff">Estou indo em frente.</font> Bom funcionamento.
+
+564
+00:26:04,803 --> 00:26:07,523
+APITOS DE PÁSSAROS
+<font color="#00ffff">A equipe que estava de volta ao castelo</font>
+
+565
+00:26:07,563 --> 00:26:09,643
+<font color="#00ffff">tive que correr como um louco,</font>
+
+566
+00:26:09.683 --> 00:26:12.923
+<font color="#00ffff">pressionando todos esses pássaros empalhados</font>
+<font color="#00ffff">e ouvindo sua chamada.</font>
+
+567
+00:26:12.963 --> 00:26:14.683
+IMITANDO O CANTO DO PÁSSARO:<font color="#00ffff">Urrr! Urrr!</font>
+
+568
+00:26:14,723 --> 00:26:17,003
+PÁSSAROS GORJEIAM RAPIDAMENTE
+<font color="#00ff00">Não aquele.</font>
+
+569
+00:26:17.043 --> 00:26:18.723
+CANTO DE PÁSSARO DE BAIXA FREQUÊNCIA
+<font color="#ffff00">Não, não é aquele.</font>
+
+570
+00:26:18.763 --> 00:26:21.003
+Combatente! Ruff!<font color="#00ffff">Pássaro engraçado.</font>
+
+571
+00:26:21.043 --> 00:26:23.523
+Me lembra de um encontro que eu tive uma vez,
+para ser honesto, Jonny.
+
+572
+00:26:23.563 --> 00:26:25.763
+GRASNADOS DE PÁSSAROS
+<font color="#00ff00">Não. Não, nº </fonte>
+
+573
+00:26:25,803 --> 00:26:27,203
+<font color="#ffff00">Não, é... Acho que é este.</font>
+
+574
+00:26:27.243 --> 00:26:28.683
+CANTO DE PÁSSARO ABAFADO E GRAVE
+
+575
+00:26:28.723 --> 00:26:30.323
+<font color="#ffff00">Foi bastante difícil.</font>
+
+576
+00:26:30,363 --> 00:26:32,363
+<font color="#00ffff">Quando você tem like,</font>
+<font color="#00ffff">cinco pássaros saindo em um ponto,</font>
+
+577
+00:26:32,403 --> 00:26:33,843
+<font color="#00ffff">você está, tipo, tentando ouvir</font>
+<font color="#00ffff">para it.</font>
+
+578
+00:26:33.883 --> 00:26:35.843
+PÁSSARO CHAMA RITMICAMENTE
+
+579
+00:26:35,883 --> 00:26:38,523
+<font color="#00ff00">Sim, aquele, é aquele.</font>
+<font color="#ffff00">É aquele.</font> <font color="#00ff00">É aquele.</font>
+
+580
+00:26:38,563 --> 00:26:40,163
+<font color="#00ff00">Vá em frente, Zacky boy.</font>
+
+581
+00:26:40,203 --> 00:26:42,523
+<font color="#ffff00">Quando colocamos o pássaro no pedestal,</font>
+<font color="#ffff00">tivemos que dizer</font>
+
+582
+00:26:42.563 --> 00:26:45.843
+<font color="#ffff00">onde estava o local</font>
+<font color="#ffff00">e qual era o nome do pássaro.</font>
+
+583
+00:26:45,883 --> 00:26:50,483
+<font color="#00ffff">Tudo bem, er, eu acredito que o</font>
+<font color="#00ffff">Marshes é o, er, Wormface.</font>
+
+584
+00:26:50,523 --> 00:26:51,603
+Muito bem.
+
+585
+00:26:51,643 --> 00:26:52,603
+TORCENDO
+
+586
+00:26:53,843 --> 00:26:55,123
+Vá, vá, vá!
+
+587
+00:26:57,083 --> 00:26:58,603
+<font color="#ffff00">Certo, um, dois... </font> <font color="#00ffff">Three.</font>
+
+588
+00:26:58.643 --> 00:27:02.443
+TONS MÉDIOS DE KAZOO
+
+589
+00:27:02,483 --> 00:27:05,243
+CANTO DE PÁSSARO MELODIOSO
+
+590
+00:27:07,443 --> 00:27:09,203
+<font color="#ffff00">Equipe azul na Fountain.</font>
+
+591
+00:27:09.243 --> 00:27:11.403
+IMITANDO O CANTO MELÓDICO
+
+592
+00:27:12.883 --> 00:27:15.443
+<font color="#ffff00">Urrr-urrr!</font>
+
+593
+00:27:15,483 --> 00:27:17,283
+<cor da fonte="#ffff00">Urr-urr-urr.</font>
+
+594
+00:27:18,883 --> 00:27:21,403
+<font color="#00ffff">Vamos!</font> <font color="#00ff00">Corra, corra, corra.</font>
+
+595
+00:27:21.443 --> 00:27:23.643
+CLAUDIA IMITA O GRASNAR DE PÁSSAROS
+
+596
+00:27:23.683 --> 00:27:25.043
+<font color="#ffff00">Eu estava apenas correndo,</font>
+
+597
+00:27:25.083 --> 00:27:26.523
+<font color="#ffff00">apenas em pontos na maior parte dele.</font>
+
+598
+00:27:27,803 --> 00:27:30,083
+GRASNADOS DE PÁSSAROS
+<font color="#00ffff">Não é aquele.</font>
+
+599
+00:27:30.123 --> 00:27:32.683
+CANTO DE PÁSSARO MELODIOSO
+<font color="#00ff00">Aqui, eu tenho.</font>
+
+600
+00:27:32.723 --> 00:27:33.723
+<font color="#00ff00">Eu entendi, eu tenho!</font>
+
+601
+00:27:33.763 --> 00:27:35.763
+<font color="#00ff00">Claudia, nós encontramos,</font>
+<font color="#00ff00">nós encontramos!</font> Sim!
+
+602
+00:27:37.003 --> 00:27:38.883
+Se você colocá-lo no pedestal,
+você está travando.
+
+603
+00:27:38.923 --> 00:27:43.243
+Diga-me.<font color="#00ff00">Equipe azul, na Fonte</font>
+<font color="#00ff00">e é um Flap Flap.</font>
+
+604
+00:27:43.283 --> 00:27:44.323
+Correto!
+
+605
+00:27:44,363 --> 00:27:46,243
+TORCENDO
+Vá, vá, vá.
+
+606
+00:27:46,283 --> 00:27:47,323
+Saia e ouça.
+
+607
+00:27:47.363 --> 00:27:49.243
+<font color="#00ff00">Sim, conseguimos!</font>
+
+608
+00:27:49,283 --> 00:27:50,803
+Flap Flap, hein?
+
+609
+00:27:50,843 --> 00:27:52,403
+<cor da fonte="#ffff00">Excelente!</fonte>
+
+610
+00:27:52.443 --> 00:27:54.763
+<font color="#00ffff">Muito bem, pessoal!</font>
+<font color="#00ffff">Estou muito orgulhoso de nós.</font> <font color="#00ff00">yes.</font>
+
+611
+00:27:57.643 --> 00:28:01.003
+<font color="#ffff00">Está no jardim, não é?</font>
+<font color="#ffff00">O Jardim Murado.</font>
+
+612
+00:28:01.043 --> 00:28:03.683
+<font color="#ffff00">Está no Jardim Murado,</font>
+<font color="#ffff00">então entramos lá.</font> <font color="#00ffff">Vamos!</font>
+
+613
+00:28:03.723 --> 00:28:06.563
+<font color="#00ff00">Se dependesse de mim, eu não faria</font>
+<font color="#00ff00"> optei pelos escudos,</font>
+
+614
+00:28:06,603 --> 00:28:08,963
+<font color="#00ff00">Eu iria pegar o dinheiro primeiro</font>
+<font color="#00ff00">e se houver tempo no final,</font>
+
+615
+00:28:09.003 --> 00:28:11.603
+<font color="#00ff00">vamos buscar o Shields.</font>
+<font color="#ffff00">Tenho que procurar, pessoal, diz.</font>
+
+616
+00:28:11.643 --> 00:28:14.683
+<font color="#00ff00">Você consegue ver? Eu entendi.</font>
+<font color="#00ff00">Estamos aqui, estamos aqui, estamos aqui.</font>
+
+617
+00:28:14.723 --> 00:28:16.043
+<font color="#00ff00">No entanto, Andrew disse,</font>
+
+618
+00:28:16.083 --> 00:28:18.243
+<font color="#00ff00">"Vamos pegar o Shields</font>
+
+619
+00:28:18,283 --> 00:28:20,243
+<font color="#00ff00">"e vá buscar todo o dinheiro." </fonte>
+
+620
+00:28:20.283 --> 00:28:21.963
+<font color="#00ff00">Isso para mim soa como um ganha-ganha.</font>
+
+621
+00:28:22.003 --> 00:28:24.323
+<font color="#00ff00">Então, OK, eu vou te seguir</font>
+<font color="#00ff00">e é isso que faremos.</font>
+
+622
+00:28:25,283 --> 00:28:26,403
+PÁSSARO ASSOBIA MELODIADO
+
+623
+00:28:26.443 --> 00:28:27.723
+<font color="#ffff00">Aí está.</font> <font color="#00ffff">Espere.</font>
+
+624
+00:28:27.763 --> 00:28:29.683
+PÁSSARO ASSOBIA MELODIADO
+<cor da fonte="#ffff00">Woo-ooh!</font>
+
+625
+00:28:29,723 --> 00:28:33,363
+<font color="#ffff00">OK, esta é a equipe vermelha em the</font>
+<font color="#ffff00">Walled Garden e o som é... </fonte>
+
+626
+00:28:33,403 --> 00:28:34,723
+<cor da fonte="#ffff00">.. woo-ooh!</font>
+
+627
+00:28:34.763 --> 00:28:37.523
+<font color="#00ffff">Esse foi o... </font> <font color="#00ff00">Essa foi a </font>
+<font color="#00ff00">flamingo.</font> <font color="#00ffff">.. flamingo! Flamingo!</font>
+
+628
+00:28:37,563 --> 00:28:39,923
+<font color="#00ff00">Potencialmente.</font> <font color="#ffff00">Onde está?</font> <font color="#00ffff">Woo-ooh!</font>
+
+629
+00:28:39.963 --> 00:28:40.963
+<cor da fonte="#00ff00">Hoo-ooh!</font>
+
+630
+00:28:41.003 --> 00:28:42.043
+<font color="#ffff00">Eu entendi.</font>
+
+631
+00:28:43.123 --> 00:28:44.323
+PÁSSARO ASSOBIA MELODIADO
+
+632
+00:28:44,363 --> 00:28:46,403
+<cor da fonte="#00ffff">sim! Sim!</font> <font color="#00ff00">Nós temos!</font>
+
+633
+00:28:46,443 --> 00:28:47,483
+<font color="#00ff00">Yes!</font>
+
+634
+00:28:47,523 --> 00:28:50,083
+<font color="#ffff00">Estou correndo provavelmente</font>
+<font color="#ffff00">o mais rápido que já executei</font>
+
+635
+00:28:50.123 --> 00:28:51.363
+<cor da fonte="#ffff00">desde o ensino médio.</font>
+
+636
+00:28:51,403 --> 00:28:54,083
+<font color="#ffff00">Professores de educação física assistindo isso,</font>
+<font color="#ffff00"> orgulhe-se. E, hum, < / fonte>
+
+637
+00:28:54.123 --> 00:28:55.963
+<font color="#ffff00">está tudo indo muito bem, eu acho.</font>
+
+638
+00:28:56.003 --> 00:28:59.843
+Tem certeza?<font color="#00ffff">É Fooper,</font>
+<font color="#00ffff">no Jardim Murado.</font>
+
+639
+00:28:59,883 --> 00:29:01,843
+Você está correto.
+
+640
+00:29:01.883 --> 00:29:03.723
+<font color="#00ffff">Vamos, próximo! A seguir!</font>
+<font color="#00ff00">Tudo bem. Mais cinco.</fonte>
+
+641
+00:29:03.763 --> 00:29:05.683
+<font color="#ffff00">Saúde, pessoal.</font> <font color="#00ffff">Muito bem.</font>
+<font color="#ffff00">Saúde, pessoal.</font>
+
+642
+00:29:05.723 --> 00:29:06.723
+<font color="#ffff00">Mexa-se, mova-se.</font>
+
+643
+00:29:06.763 --> 00:29:09.523
+Isso é três corretos até agora.
+
+644
+00:29:09.563 --> 00:29:11.923
+Mas nem todos eles
+pode ser por dinheiro.
+
+645
+00:29:14,203 --> 00:29:15,403
+<font color="#ffff00">Equipe azul, o Forest.</font>
+
+646
+00:29:15.443 --> 00:29:17.363
+ELE IMITA UM CANTO PROLONGADO DE PÁSSAROS
+
+647
+00:29:18.723 --> 00:29:20.483
+CANTO PROLONGADO DE PÁSSAROS
+
+648
+00:29:23,203 --> 00:29:25,403
+<font color="#ffff00">Isso estava bombando, a propósito.</font>
+
+649
+00:29:25.443 --> 00:29:26.843
+GRASNADOS DE PÁSSAROS
+CANTO DE PÁSSARO ZUMBINDO
+
+650
+00:29:26.883 --> 00:29:27.923
+CHIRPS DE PÁSSAROS
+
+651
+00:29:27.963 --> 00:29:30.403
+CANTO DE PÁSSARO VIBRATÓRIO
+<font color="#ffff00">Yes.</font> <font color="#00ffff">É isso. É isso.</font>
+
+652
+00:29:31.803 --> 00:29:34.163
+<font color="#00ffff">O local é Forest</font>
+<font color="#00ffff">e o Clucker.</font>
+
+653
+00:29:35,203 --> 00:29:36,963
+<font color="#00ffff">yes.</font> Receio que esteja incorreto.
+
+654
+00:29:37.003 --> 00:29:38.643
+ALL:<font color="#ffff00">Oh!</font>
+
+655
+00:29:38.683 --> 00:29:40.563
+Vamos, o tempo está se esgotando, vá!
+
+656
+00:29:40,603 --> 00:29:42,043
+CANTO DE PÁSSARO DESCENDENTE
+
+657
+00:29:42.083 --> 00:29:43.883
+<font color="#ffff00">O que foi isso? Soou como um peido.</font>
+
+658
+00:29:43.923 --> 00:29:45.403
+IMITANDO O CHAMADO DESCENDENTE
+
+659
+00:29:45,443 --> 00:29:46,443
+RISO
+
+660
+00:29:46.483 --> 00:29:47.883
+<cor da fonte="#ffff00">Ah-arr!</font>
+
+661
+00:29:47.923 --> 00:29:50.083
+CANTO RÁPIDO DO PÁSSARO ESTRONDOSO
+<font color="#00ffff">Essa é uma metralhadora.</font>
+
+662
+00:29:50,123 --> 00:29:51,563
+<font color="#00ff00">Eles nem soavam como pássaros,</font>
+
+663
+00:29:51.603 --> 00:29:53.123
+<font color="#00ff00">como muitos deles eram apenas</font>
+<cor da fonte="#00ff00">so abstract.</font>
+
+664
+00:29:53.163 --> 00:29:56.403
+<font color="#ffff00">O local é Shrubs</font>
+<font color="#ffff00">e o pássaro é o Chico.</font>
+
+665
+00:29:57,683 --> 00:29:59,603
+Isso é incorreto.
+ALL:<font color="#00ffff">Oh!</font>
+
+666
+00:29:59,643 --> 00:30:01,403
+Pessoal, foco!
+
+667
+00:30:01.443 --> 00:30:03.523
+CANTO TONAL DO PÁSSARO
+
+668
+00:30:03.563 --> 00:30:04.523
+<cor da fonte="#00ff00">O quê?</fonte>
+
+669
+00:30:04.563 --> 00:30:06.643
+IMITANDO PÁSSARO:<font color="#00ff00">aw-wow!</font>
+
+670
+00:30:06.683 --> 00:30:08.563
+<font color="#ffff00">Esse era o que acabamos de ter.</font>
+<cor da fonte="#00ffff">sim.</fonte>
+
+671
+00:30:08,603 --> 00:30:11,563
+<cor da fonte="#00ff00">aw-uau!</fonte>
+
+672
+00:30:11.603 --> 00:30:12.843
+<font color="#ffff00">Não sei como Jas fez isso.</font>
+
+673
+00:30:12.883 --> 00:30:14.563
+<font color="#ffff00">Não sei como ela conseguiu igualar</font>
+
+674
+00:30:14.603 --> 00:30:16.123
+<font color="#ffff00">produz esse som com cordas vocais.</font>
+
+675
+00:30:16.163 --> 00:30:17.763
+Todos, façam o som para mim.
+
+676
+00:30:17.803 --> 00:30:20.523
+ALL:<font color="#00ffff">aw-wow!</font>
+RISO
+
+677
+00:30:20.563 --> 00:30:22.603
+<font color="#00ff00">Wah-wah!</font>
+
+678
+00:30:24.883 --> 00:30:26.283
+<cor da fonte="#ffff00">Gramado Oeste, Chico.</font>
+
+679
+00:30:26.323 --> 00:30:27.283
+Muito bem.
+
+680
+00:30:27.323 --> 00:30:28.763
+TORCENDO
+
+681
+00:30:28,803 --> 00:30:30,603
+Vá para o próximo!
+
+682
+00:30:30.643 --> 00:30:31.963
+<font color="#00ffff">Aqui, bem no meio.</font>
+
+683
+00:30:32.003 --> 00:30:34.683
+<font color="#00ff00">Como um grupo unânime, decidimos</font>
+<font color="#00ff00">faríamos o primeiro desafio</font>
+
+684
+00:30:34.723 --> 00:30:37.523
+<font color="#00ff00">e o segundo desafio e depois</font>
+<font color="#00ff00">iremos buscar o Shield.</font>
+
+685
+00:30:37,563 --> 00:30:38,803
+<font color="#ffff00">Ele voou no ninho.</font>
+
+686
+00:30:38.843 --> 00:30:41.843
+<font color="#00ff00">Teria sido bom, obviamente</font>
+<font color="#00ff00"> pegue o Shield porque eu sinto que</font>
+
+687
+00:30:41,883 --> 00:30:44,003
+<font color="#00ff00">há um X enorme nas minhas costas,</font>
+
+688
+00:30:44.043 --> 00:30:47.283
+<font color="#00ff00">mas eu só tenho que orar</font>
+<font color="#00ff00">para obter o melhor.</font>
+
+689
+00:30:47,323 --> 00:30:50,203
+<font color="#ffff00">Estarei interessado em ver,</font>
+<font color="#ffff00">alguém vai confessar?</font>
+
+690
+00:30:50,243 --> 00:30:52,123
+<font color="#00ffff">Dê uma olhada.</font> <font color="#00ff00">yes.</font>
+<font color="#00ffff">Corremos direto para cá.</font>
+
+691
+00:30:52,163 --> 00:30:53,243
+<font color="#00ff00">É para onde precisamos ir?</font>
+
+692
+00:30:53,283 --> 00:30:54,843
+<font color="#00ffff">Sim, é aí que precisamos</font>
+<font color="#00ffff">go, lá embaixo.</font>
+
+693
+00:30:54,883 --> 00:30:56,403
+<font color="#00ff00">Dessa forma, há</font>
+<font color="#00ff00">um portão, há um portão.</font>
+
+694
+00:30:56,443 --> 00:30:59,563
+Faltam quatro minutos!
+<font color="#00ffff">Pessoal, temos quatro minutos restantes.</font>
+
+695
+00:30:59.603 --> 00:31:01.363
+<font color="#00ffff">Para onde você vai?</font>
+<font color="#00ffff">Qual é a sua localização?</font>
+
+696
+00:31:01.403 --> 00:31:02.883
+<font color="#00ff00">Esta é a equipe vermelha no Labyrinth.</font>
+
+697
+00:31:02.923 --> 00:31:04.443
+IMITA O CANTO RÍTMICO DOS PÁSSAROS
+
+698
+00:31:04.483 --> 00:31:06.803
+<font color="#ffff00">Acho que conheço esse. Acho que </font>
+<font color="#ffff00">conheça essa. É a fonte </bilhar>
+
+699
+00:31:06,843 --> 00:31:10,203
+<font color="#ffff00">room, não é?</font> <font color="#00ffff">Tenho certeza</font>
+<font color="#00ffff">esse é o grande pássaro no bilhar</font>
+<font color="#00ffff">room.</font> <font color="#ffff00">Tenho certeza que é.</font>
+
+700
+00:31:10.243 --> 00:31:13.243
+Apenas traga-o para mim para trancá-lo.
+<font color="#ffff00">Este.</font>
+
+701
+00:31:13.283 --> 00:31:15.403
+<font color="#00ffff">Foi freneticamente divertido, de certa forma.</font>
+
+702
+00:31:15.443 --> 00:31:17.483
+<font color="#ffff00">Pronto? Go.</font> <font color="#00ff00">É massive.</font>
+
+703
+00:31:17.523 --> 00:31:20.043
+<font color="#ffff00">Oh, isso é enorme.</font> <font color="#00ffff">Este pássaro grande</font>
+
+704
+00:31:20.083 --> 00:31:22.523
+<font color="#00ffff">era tão alto, tipo,</font>
+<font color="#00ffff">quase tiramos sua cabeça.</font>
+
+705
+00:31:22.563 --> 00:31:24.483
+Sem essa! O tempo está se esgotando!
+
+706
+00:31:27.403 --> 00:31:28.923
+Diga-me.<font color="#ffff00">Equipe vermelha, Labirinto,</font>
+
+707
+00:31:28.963 --> 00:31:30.083
+<cor da fonte="#ffff00">Featherington.</font>
+
+708
+00:31:30,123 --> 00:31:31,403
+Muito bem.
+
+709
+00:31:32.723 --> 00:31:35.363
+Pessoal, vocês fizeram todos os sete pássaros.
+
+710
+00:31:35,403 --> 00:31:37,123
+<font color="#00ffff">Muito bem, pessoal, conseguimos.</font>
+
+711
+00:31:37,163 --> 00:31:38,363
+ALL:<font color="#00ff00">yes!</font>
+
+712
+00:31:38,403 --> 00:31:39,603
+<font color="#ffff00">Estou tão animado.</font>
+
+713
+00:31:39.643 --> 00:31:41.643
+<font color="#ffff00">Agora a estratégia</font>
+<font color="#ffff00">para cada jogo</fonte>
+
+714
+00:31:41.683 --> 00:31:43.843
+<font color="#ffff00">é que os traidores precisam</font>
+
+715
+00:31:43.883 --> 00:31:45.843
+<font color="#ffff00">vá para todos os escudos.</font>
+
+716
+00:31:45,883 --> 00:31:47,083
+<font color="#ffff00">Perfect.</font> <font color="#00ffff">Isso foi épico, man.</font>
+
+717
+00:31:47,123 --> 00:31:49,403
+<font color="#ffff00">Escudos e dinheiro, sim?</font> <font color="#00ffff">yes.</font>
+<font color="#00ffff">O que mais poderíamos querer?</font>
+
+718
+00:31:52.243 --> 00:31:54.803
+APLAUSOS E APLAUSOS
+
+719
+00:31:58,603 --> 00:32:01,163
+Sério, muito bem.
+
+720
+00:32:01.203 --> 00:32:03.323
+Você se sente bem?<font color="#ffff00">yes!</font> <font color="#00ffff">Yes!</font>
+
+721
+00:32:03.363 --> 00:32:06.403
+Você ouviu sete cantos de pássaros.
+
+722
+00:32:06.443 --> 00:32:10.043
+Você identificou corretamente
+cinco deles.
+
+723
+00:32:10.083 --> 00:32:14.883
+Houve um atrevido
+Pássaro escudo lá dentro,
+
+724
+00:32:14.923 --> 00:32:15.043
+Houve um atrevido
+Pássaro escudo lá dentro,
+
+725
+00:32:15,083 --> 00:32:19,243
+mas você ganhou £ 4.000
+para o pote de prêmios.
+
+726
+00:32:21.003 --> 00:32:22.563
+Então, muito bem feito.
+
+727
+00:32:25.123 --> 00:32:29.763
+<font color="#ffff00">Contribuímos com £ 4.000</font>
+<font color="#ffff00">para o prêmio! Oba!</font>
+
+728
+00:32:29.803 --> 00:32:30.363
+<font color="#ffff00">Contribuímos com £ 4.000</font>
+<font color="#ffff00">para o prêmio! Oba!</font>
+
+729
+00:32:30.403 --> 00:32:32.323
+<font color="#ffff00">Acho que, em um ambiente</font>
+
+730
+00:32:32.363 --> 00:32:35.323
+<font color="#ffff00">onde você está falando sobre quem é</font>
+<font color="#ffff00">um traidor, o que você está fazendo,</font>
+
+731
+00:32:35,363 --> 00:32:37,203
+<font color="#ffff00">é muito bom apenas</font>
+
+732
+00:32:37.243 --> 00:32:39.043
+<font color="#ffff00">eleve todos como um grupo.</font>
+
+733
+00:32:39.083 --> 00:32:43.563
+Estou falando agora apenas para as pessoas
+que agarraram um escudo.
+
+734
+00:32:43.603 --> 00:32:44.483
+Estou falando agora apenas para as pessoas
+que agarraram um escudo.
+
+735
+00:32:44.523 --> 00:32:48.483
+Cabe a eles
+se eles se dão a conhecer.
+
+736
+00:32:48.523 --> 00:32:51.843
+Alguém gostaria de dizer,
+"Sim, eu tenho um escudo"?
+
+737
+00:32:55.243 --> 00:32:57.563
+<font color="#ffff00">sim, acho que devemos,</font>
+<font color="#ffff00">Acho que seja honesto.</font> <font color="#00ffff">yes.</font>
+
+738
+00:32:57,603 --> 00:33:00,043
+<font color="#ffff00">Temos Shields, pessoal.</font>
+Parabéns, equipe vermelha.
+
+739
+00:33:00.083 --> 00:33:02.523
+<font color="#00ff00">Muito bem!</font> Muito bem.
+
+740
+00:33:02.563 --> 00:33:03.843
+<cor da fonte="#ffff00">Andrew, Paul</font>
+
+741
+00:33:03.883 --> 00:33:07.843
+<font color="#ffff00">e Anthony tinha todos conseguido</font>
+<font color="#ffff00">Shields e foram protegidos.</font>
+
+742
+00:33:07.883 --> 00:33:11.043
+<font color="#ffff00">É flagrantemente óbvio que</font>
+<font color="#ffff00">Anthony's a Traitor</font>
+
+743
+00:33:11.083 --> 00:33:12.363
+<font color="#ffff00">e não um jogador de equipe.</font>
+
+744
+00:33:12.403 --> 00:33:17.523
+André, Paulo, Antônio,
+você vai dormir profundamente esta noite.
+
+745
+00:33:17.563 --> 00:33:20.723
+Você está protegido contra assassinato.
+
+746
+00:33:20.763 --> 00:33:25.003
+No entanto, você não está protegido,
+qualquer um de vocês, contra o banimento
+
+747
+00:33:25.043 --> 00:33:26.523
+No entanto, você não está protegido,
+qualquer um de vocês, contra o banimento
+
+748
+00:33:26.563 --> 00:33:29.123
+e nessa nota,
+Vejo você muito em breve
+
+749
+00:33:29.163 --> 00:33:33.083
+para o primeiro banimento
+na Távola Redonda.
+
+750
+00:33:33.123 --> 00:33:34.443
+<cor da fonte="#ffff00">Oh! Oh, Deus!</font>
+
+751
+00:33:34.483 --> 00:33:36.083
+Espero que gostem de tensão.
+
+752
+00:33:42.803 --> 00:33:44.923
+<font color="#ffff00">Aposto que você está feliz por poder</font>
+<font color="#ffff00">durma tranquilo esta noite.</font>
+
+753
+00:33:44.963 --> 00:33:46.603
+<font color="#00ffff">Oh, eu sei.</font>
+
+754
+00:33:46,643 --> 00:33:48,403
+<font color="#00ffff">É engraçado que ficou como um boo.</font>
+
+755
+00:33:48,443 --> 00:33:50,803
+<font color="#ffff00">Oh, não, era como uma fonte </>
+<font color="#ffff00">"Ooh, sorte sua." </fonte>
+
+756
+00:33:50.843 --> 00:33:53.043
+<font color="#ffff00">Bem, acho que houve um boo.</font>
+<font color="#00ffff">Não foi minha decisão ir e fazer isso.</font>
+
+757
+00:33:55,123 --> 00:33:58,043
+<font color="#00ff00">Ooh, eu amo esse fire.</font>
+<font color="#00ff00">Eu adoro, adoro, adoro.</font>
+
+758
+00:33:58,083 --> 00:34:00,083
+<font color="#ffff00">Então, como era lá fora,</font>
+<cor da fonte="#ffff00">Paulo?</fonte>
+
+759
+00:34:00,123 --> 00:34:02,203
+<font color="#00ffff">Então foi bom.</font>
+<font color="#00ffff">Todos nós tínhamos dois lugares para ir</font>
+
+760
+00:34:02.243 --> 00:34:03.843
+<font color="#00ffff">e depois havia o Shields.</font>
+
+761
+00:34:03,883 --> 00:34:06,123
+<font color="#00ff00">De quem foi a decisão de obter</font>
+<font color="#00ff00">os escudos primeiro?</font>
+
+762
+00:34:06,163 --> 00:34:07,483
+<cor da fonte="#00ffff">Andrew.</font>
+
+763
+00:34:07,523 --> 00:34:10,523
+<font color="#00ff00">Nada de errado com isso.</font> <font color="#00ffff">yes,</font>
+<font color="#00ffff">Sim, acho que não há</font>
+<font color="#00ffff">qualquer coisa errada com isso... </fonte>
+
+764
+00:34:10.563 --> 00:34:13.963
+<font color="#00ff00">Não há nada de errado com isso.</font>
+<cor da fonte="#00ffff">.. Na verdade, estranhamente, mas parece ... </fonte>
+<font color="#ffff00">Você sabe o que eu acho?</font>
+
+765
+00:34:14.003 --> 00:34:15.923
+<font color="#ffff00">No meu grupo,</font>
+<font color="#ffff00">não escolhemos o Shield primeiro.</font>
+
+766
+00:34:15.963 --> 00:34:18.203
+<font color="#ffff00">Dissemos que seria injusto para</font>
+<font color="#ffff00">vá para o Shield primeiro</font>
+
+767
+00:34:18.243 --> 00:34:21.923
+<font color="#ffff00">porque vocês no castelo... </fonte>
+<font color="#00ffff">Não tive essa chance.</font>
+<cor da fonte="#ffff00">.. não tive essa chance.</font>
+
+768
+00:34:21.963 --> 00:34:23.363
+<font color="#ffff00">Para ser honesto, eu sabia que eram</font>
+
+769
+00:34:23,403 --> 00:34:25,683
+<font color="#ffff00"> vai para isso primeiro. Eles têm</font>
+<font color="#ffff00">Andrew nessa equipe e eu acho</font>
+
+770
+00:34:25.723 --> 00:34:29.083
+<font color="#ffff00">ele é um traidor. Não me interpretem mal, < / fonte>
+<font color="#ffff00">Eu realmente amo Paul. Acho que tinha</fonte>
+
+771
+00:34:29,123 --> 00:34:30,643
+<font color="#ffff00">ele foi colocado em uma equipe diferente,</font>
+
+772
+00:34:30.683 --> 00:34:33.923
+<font color="#ffff00">Acho que ele não teria</font>
+<font color="#ffff00">foi para o Shield primeiro.</font>
+
+773
+00:34:33.963 --> 00:34:36.523
+<font color="#ffff00">Com ou sem razão,</font>
+<font color="#ffff00">goste ou não,</font>
+
+774
+00:34:36,563 --> 00:34:39,283
+<font color="#ffff00">se você receber um Shield,</font>
+<font color="#ffff00">você vai carregar</font>
+<font color="#ffff00">o peso de ter o Shield</font>
+
+775
+00:34:39,323 --> 00:34:42,043
+<font color="#ffff00">e você vai carregar o peso</font>
+<font color="#ffff00">de ter as opiniões dele.</font>
+
+776
+00:34:42.083 --> 00:34:44.163
+<font color="#00ff00">Mas você também terá</font>
+<font color="#00ff00">uma boa noite de sono.</font>
+
+777
+00:34:44,203 --> 00:34:47,523
+<font color="#ffff00">Sim, exatamente. Exatamente, então... </fonte>
+<cor da fonte="#ffff00">Exatamente.</fonte>
+RISO
+
+778
+00:34:49.803 --> 00:34:52.003
+<font color="#00ffff">Todos nós vamos ter que</font>
+<font color="#00ffff">acuse alguém.</font>
+
+779
+00:34:52.043 --> 00:34:56.363
+<font color="#00ffff">Posso imaginar muitas pessoas</font>
+<font color="#00ffff">levando para o lado pessoal.</font> <font color="#00ff00">Mm.</font>
+
+780
+00:34:56,403 --> 00:34:56,563
+<font color="#00ffff">Posso imaginar muitas pessoas</font>
+<font color="#00ffff">levando para o lado pessoal.</font> <font color="#00ff00">Mm.</font>
+
+781
+00:34:56,603 --> 00:34:59,523
+<font color="#00ffff">O primeiro banimento é</font>
+<font color="#00ffff">vai ser horrível.</font>
+
+782
+00:34:59.563 --> 00:35:02.763
+<font color="#00ffff">Tudo pode acontecer, então é prepare</font>
+
+783
+00:35:02,803 --> 00:35:04,563
+<font color="#00ffff">para o pior, espere o melhor.</font>
+
+784
+00:35:04,603 --> 00:35:06,283
+<font color="#00ff00">Você tem tão pouco para continuar.</font>
+
+785
+00:35:06,323 --> 00:35:09,443
+<font color="#00ff00">Você só precisa encontrar o menor</font>
+<font color="#00ff00">coisa para desligar.</font> <font color="#ffff00">sim, eu sei.</font>
+
+786
+00:35:09.483 --> 00:35:11.483
+<font color="#00ffff">Você não é um traidor, é?</font>
+<font color="#00ffff">Você pode ser um traidor,</font>
+
+787
+00:35:11.523 --> 00:35:13.843
+<font color="#00ffff">você sabe, essa é a coisa.</font>
+<font color="#ffff00">Não sou um traidor.</font>
+
+788
+00:35:13.883 --> 00:35:14.923
+<font color="#ffff00">I'm a Faithful.</font>
+
+789
+00:35:14.963 --> 00:35:17.923
+<font color="#00ffff">Essa é a coisa toda,</font>
+<font color="#00ffff">não é? Gostar... </font> <font color="#00ff00">Você está?</font>
+
+790
+00:35:17.963 --> 00:35:19.883
+<font color="#00ffff">Bem, claro. A questão é ... </fonte>
+<font color="#ffff00">Claro que sim!</font>
+
+791
+00:35:22.203 --> 00:35:25.283
+<font color="#00ffff">Achei que ser um traidor seria</font>
+<font color="#00ffff">o papel mais fácil de desempenhar, na verdade,</font>
+
+792
+00:35:25,323 --> 00:35:28,083
+<font color="#00ffff"> porque eu pensei, você sabe, você começa a</font>
+<font color="#00ffff">veja tudo, você sabe,</font>
+
+793
+00:35:28,123 --> 00:35:31,123
+<font color="#00ffff">você pode estar no controle, isso,</font>
+<font color="#00ffff">isso e o outro, mas na verdade,</font>
+
+794
+00:35:31,163 --> 00:35:33,403
+<font color="#00ffff">as pessoas continuam assistindo</font>
+
+795
+00:35:33,443 --> 00:35:35,723
+<font color="#00ffff">e é um pouco desconfortável.</font>
+
+796
+00:35:36.963 --> 00:35:41.163
+<font color="#00ff00">Eu tenho uma fonte muito forte</>
+<font color="#00ff00">sentimento sobre quem eu acho que é.</font>
+
+797
+00:35:42,523 --> 00:35:46,443
+<font color="#00ff00">Aquele que realmente foi</font>
+<font color="#00ff00">rude para mim também.</font>
+
+798
+00:35:46,483 --> 00:35:48,843
+<font color="#ffff00">Eu sei sobre quem você está falando</font>
+<font color="#ffff00">porque todo mundo está de volta</font>
+
+799
+00:35:48,883 --> 00:35:50,283
+<font color="#ffff00">e houve uma grande mudança.</font>
+
+800
+00:35:50,323 --> 00:35:52,843
+<font color="#00ffff">A única coisa que eu diria é que</font>
+<font color="#00ffff">ele apenas se mantém para si mesmo.</font>
+
+801
+00:35:52.883 --> 00:35:56.163
+<font color="#00ff00">Mas não era assim no</font>
+<font color="#00ff00">beginning, porém, foi?</font>
+<font color="#00ffff">Ele não era assim.</font>
+
+802
+00:35:56,203 --> 00:35:58,283
+<font color="#00ffff">A coisa comigo, certo,</font>
+<font color="#00ffff">Eu vou te dar, eu te dou um</font>
+
+803
+00:35:58.323 --> 00:36:00.923
+<font color="#00ffff">que eu acho, eu pessoalmente acho que é</font>
+<font color="#00ffff">que vou chamar hoje à noite.</font>
+
+804
+00:36:02,963 --> 00:36:03,963
+SUSSURRANDO:<cor da fonte="#00ff00">Quem?</fonte>
+
+805
+00:36:05.843 --> 00:36:07.883
+<font color="#00ffff">Ela é... </font> <font color="#00ff00">Mm.</font> <font color="#00ffff">.. mexendo.</font>
+
+806
+00:36:13,603 --> 00:36:16,203
+<font color="#00ff00">Fui a primeira pessoa que ele conheceu,</font>
+<font color="#00ff00">então eu sei.</font>
+
+807
+00:36:16,243 --> 00:36:17,603
+<font color="#00ff00">Com Anthony,</font>
+
+808
+00:36:17.643 --> 00:36:19.523
+<font color="#00ff00">porque ele é tão indiferente</font>
+<font color="#00ff00">e ele é tão abrupto,</font>
+
+809
+00:36:19.563 --> 00:36:22.443
+<font color="#00ff00">e ele é completamente</font>
+<font color="#00ff00">diferente do primeiro dia.</font>
+
+810
+00:36:23.963 --> 00:36:27.283
+<font color="#00ff00">Se alguém está agindo de forma consistente</font>
+<font color="#00ff00">odd, você tem que questioná-lo.</font>
+
+811
+00:36:27,323 --> 00:36:29,843
+<font color="#00ffff">Então, quem você acha que está indo</font>
+<font color="#00ffff">para votar então?</font>
+
+812
+00:36:29.883 --> 00:36:31.083
+<cor da fonte="#00ff00">Sonja.</font>
+
+813
+00:36:33.083 --> 00:36:35.923
+<font color="#00ffff">Acho que você precisa ser muito</font>
+<font color="#00ffff">cuidado ao votar em pessoas que</font>
+
+814
+00:36:35,963 --> 00:36:37,163
+<font color="#00ffff">outras pessoas concordam com.</font>
+
+815
+00:36:37,203 --> 00:36:39,203
+<font color="#00ffff">Porque então você está... você vai</font>
+<font color="#00ffff">ser desafiado.</font>
+
+816
+00:36:40.723 --> 00:36:41.923
+<cor da fonte="#00ff00">Sério?</font> <font color="#00ffff">Mm.</font>
+
+817
+00:36:51.523 --> 00:36:54.003
+# Mm-mm-mmm
+
+818
+00:36:54.043 --> 00:36:55.923
+# Mm-mmm
+
+819
+00:36:55,963 --> 00:36:58,563
+# Mm-mm-mmm
+
+820
+00:36:58,603 --> 00:37:01,203
+# Hm-hm-hm-hmm. #
+
+821
+00:37:01.243 --> 00:37:04.323
+É hora do nosso primeiro
+banimento
+
+822
+00:37:04,363 --> 00:37:08,283
+e os jogadores receberão seu primeiro
+gosto da política do castelo.
+
+823
+00:37:08,323 --> 00:37:10,203
+Eles vão votar em alguém.
+
+824
+00:37:10.243 --> 00:37:14.483
+Eles pegarão um traidor culpado,
+ou banir um fiel inocente?
+
+825
+00:37:14.523 --> 00:37:14.643
+Eles pegarão um traidor culpado,
+ou banir um fiel inocente?
+
+826
+00:37:14.683 --> 00:37:17.283
+Eu vou ser honesto,
+esta é a minha parte favorita.
+
+827
+00:37:17,323 --> 00:37:19,443
+É hora da Távola Redonda.
+
+828
+00:37:22.963 --> 00:37:24.083
+{\an8}<font color="#ffff00">Hoje é a noite.</font>
+
+829
+00:37:24.123 --> 00:37:26.363
+{\an8}<font color="#ffff00">É a primeira vez que vamos</font>
+<font color="#ffff00">por meio de um banimento.</font>
+
+830
+00:37:26,403 --> 00:37:28,243
+{\an8}<font color="#ffff00">Estou nervoso com isso.</font>
+
+831
+00:37:28,283 --> 00:37:30,643
+{\an8}<font color="#00ffff">Está prestes a obter</font>
+<font color="#00ffff">hot in the kitchen.</font>
+
+832
+00:37:31.883 --> 00:37:35.243
+{\an8}<font color="#00ff00">A atmosfera é tensa.</font>
+
+833
+00:37:51.243 --> 00:37:53.443
+{\an8}<font color="#ffff00">Somos todos traidores</font>
+<font color="#ffff00">caçando nesta Távola Redonda,</font>
+
+834
+00:37:53,483 --> 00:37:55,843
+{\an8}<font color="#ffff00">tipo, quero pegar um traidor</font>
+<font color="#ffff00">mais do que qualquer coisa.</font>
+
+835
+00:37:55,883 --> 00:37:59,843
+{\an8}<font color="#00ffff">A pressão de 20 outras pessoas</font>
+<font color="#00ffff">observando seu tratamento facial</fonte>
+
+836
+00:37:59,883 --> 00:38:02,123
+{\an8}<font color="#00ffff">expressions, sua inquietação,</font>
+<cor da fonte="#00ffff">tudo.</fonte>
+
+837
+00:38:02.163 --> 00:38:03.563
+{\an8}<font color="#00ffff">A pressão é inimaginável.</font>
+
+838
+00:38:08.563 --> 00:38:10.803
+Bem-vindo à Mesa Redonda.
+
+839
+00:38:11.923 --> 00:38:14.163
+É aqui que realmente começa.
+
+840
+00:38:17.523 --> 00:38:22.483
+Parabéns, seu prêmio
+atualmente está em £ 19.000.
+
+841
+00:38:22.523 --> 00:38:23.323
+Parabéns, seu prêmio
+atualmente está em £ 19.000.
+
+842
+00:38:26,043 --> 00:38:28,403
+Mas quem vai levar
+o dinheiro no final?
+
+843
+00:38:31.883 --> 00:38:36.283
+A última vez que estivemos aqui
+Eu escolhi os traidores.
+
+844
+00:38:36.323 --> 00:38:36.363
+A última vez que estivemos aqui
+Eu escolhi os traidores.
+
+845
+00:38:39,883 --> 00:38:44,163
+Então, fiel, eu estou querendo saber
+se você puder fazer o mesmo.
+
+846
+00:38:48.283 --> 00:38:51.603
+Todos vocês terão um voto cada.
+
+847
+00:38:54,483 --> 00:38:57,643
+E quem obtiver mais votos
+ser banido
+
+848
+00:38:57.683 --> 00:39:00.323
+do castelo para sempre.
+
+849
+00:39:04,163 --> 00:39:06,003
+Então...
+
+850
+00:39:06.043 --> 00:39:07.883
+.. Em quem você pode confiar?
+
+851
+00:39:10.683 --> 00:39:12.363
+Quem já está mentindo?
+
+852
+00:39:15.243 --> 00:39:17.603
+Talvez quem tenha mudado?
+
+853
+00:39:19.683 --> 00:39:23.563
+Parece uma conversa
+precisa acontecer.
+
+854
+00:39:26,203 --> 00:39:27,603
+Quem gostaria de começar?
+
+855
+00:39:27.643 --> 00:39:29.683
+<font color="#ffff00">Gostaria de começar.</font>
+
+856
+00:39:29.723 --> 00:39:31.603
+<font color="#00ffff">Ooh!</font> <font color="#00ff00">Vá em frente, Diane.</font>
+
+857
+00:39:31.643 --> 00:39:33.443
+<font color="#00ffff">Vá em frente!</font> <font color="#ffff00">yes.</font>
+
+858
+00:39:33,483 --> 00:39:36,563
+<font color="#ffff00">Então isso começou para mim</font>
+<font color="#ffff00">no primeiro dia em que chegamos.</font>
+
+859
+00:39:36,603 --> 00:39:37,963
+<font color="#ffff00">Tivemos que ficar na fila.</font>
+
+860
+00:39:38.003 --> 00:39:42.003
+<font color="#ffff00">Por causa do ano passado, eu queria</font>
+<font color="#ffff00">estar no meio e eu fui e</font>
+
+861
+00:39:42.043 --> 00:39:45.563
+<font color="#ffff00">ficou ao lado de Anthony para entrar na </font>
+<font color="#ffff00">line e ele olhou para mim e </font>
+
+862
+00:39:45,603 --> 00:39:47,323
+<font color="#ffff00">disse, bem, ele simplesmente não se movia</font>
+
+863
+00:39:47,363 --> 00:39:49,163
+<font color="#ffff00">e eu disse: "Posso entrar, </font>
+<cor da fonte="#ffff00">por favor?" </fonte>
+
+864
+00:39:49,203 --> 00:39:52,283
+<font color="#ffff00">E ele ainda continuou a olhar para mim</font>
+<font color="#ffff00">e não se moveu.</font>
+
+865
+00:39:52,323 --> 00:39:56,283
+<font color="#ffff00">Agora, isso para mim cheira a alguém</font>
+<font color="#ffff00">quem está fora de si.</font>
+
+866
+00:39:57.683 --> 00:39:59.643
+<font color="#ffff00">Absolutamente não tendo isso.</font>
+
+867
+00:40:01,083 --> 00:40:04,443
+<font color="#00ffff">Muito simplesmente, no início quando,</font>
+<font color="#00ffff">erm, estávamos na fila,</font>
+
+868
+00:40:04,483 --> 00:40:07,603
+<font color="#00ffff">e eu e John estávamos tentando</font>
+<font color="#00ffff">para entrar em ordem,</font>
+
+869
+00:40:07.643 --> 00:40:10.163
+<font color="#00ffff">você não falou comigo,</font>
+<font color="#00ffff">você não me abraçou.</font>
+
+870
+00:40:10,203 --> 00:40:13,043
+<font color="#00ffff">Falei com praticamente todos</fonte>
+<font color="#00ffff">pessoa nesta sala.</font>
+
+871
+00:40:13,083 --> 00:40:15,763
+<font color="#00ffff">Se eu tiver um problema com alguém,</font>
+<font color="#00ffff">Vou direto a eles</font>
+
+872
+00:40:15.803 --> 00:40:17.683
+<font color="#00ffff">e lidar com eles.</font>
+
+873
+00:40:17.723 --> 00:40:20.723
+<font color="#00ffff">Por que é isso, é só agora que você</font>
+<font color="#00ffff">decidir fazer isso?</font>
+
+874
+00:40:22.163 --> 00:40:24.323
+<font color="#00ff00">Para ser justo, acho que você é</font>
+<cor da fonte="#00ff00">muito defensivo</fonte>
+
+875
+00:40:24.363 --> 00:40:25.883
+<font color="#00ff00">e você me conhece e se dá bem.</font>
+
+876
+00:40:25,923 --> 00:40:29,003
+<font color="#00ff00">E eu vi alguns</font>
+<font color="#00ff00">vezes que parece haver</font>
+
+877
+00:40:29.043 --> 00:40:31.403
+<font color="#00ff00">uma mudança de comportamento desde o dia</font>
+<font color="#00ff00">nos conhecemos na plataforma,</font>
+
+878
+00:40:31,443 --> 00:40:33,523
+<font color="#00ff00">like, você estava tão feliz</font>
+<font color="#00ff00">e assim borbulhante.</font> <font color="#00ffff">Sério?</font>
+
+879
+00:40:33.563 --> 00:40:35.363
+<font color="#00ff00">Mas soa na minha cabeça,</font>
+
+880
+00:40:35,403 --> 00:40:38,163
+<font color="#00ff00">alguém está quebrando um pouco</font>
+<font color="#00ff00">um pouco de pressão aí?</font>
+
+881
+00:40:39,803 --> 00:40:43,283
+<font color="#00ffff">Se alguém me acusar</font>
+<font color="#00ffff">de algo que eu sei que não é assim,</font>
+
+882
+00:40:43.323 --> 00:40:46.003
+<font color="#00ffff">por que eu deveria dizer, "OK, então".</font>
+<font color="#00ffff">Você sabe, não. Só eu vou... </fonte>
+
+883
+00:40:46.043 --> 00:40:48.563
+TODOS FALAM AO MESMO TEMPO
+<cor da fonte="#00ffff">.. você entende?</font> <font color="#00ff00">Eu não acho</font>
+<font color="#00ff00">Anthony's a Traitor.</font>
+
+884
+00:40:48,603 --> 00:40:50,483
+<font color="#00ff00">Eu sei que não vale muito neste</font>
+<cor da fonte="#00ff00">conversa.</fonte>
+
+885
+00:40:50,523 --> 00:40:53,123
+<font color="#00ff00">Acho que ele está na defensiva, mas não </font>
+<font color="#00ff00">acho que isso faz de você um traidor.</font>
+
+886
+00:40:55,123 --> 00:40:56,843
+<font color="#ffff00">Serei completamente honesto</font>
+
+887
+00:40:56,883 --> 00:40:58,923
+<font color="#ffff00">e abra a palavra do what</font>
+<font color="#ffff00">suspeitas que ouvi.</font> <font color="#00ffff">Vá em frente.</font>
+
+888
+00:41:00,283 --> 00:41:02,843
+<font color="#ffff00">Ouvi falar de você, Andrew.</font>
+
+889
+00:41:02.883 --> 00:41:04.483
+<font color="#ffff00">No início</font>
+<font color="#ffff00">do desafio de hoje,</font>
+
+890
+00:41:04,523 --> 00:41:06,643
+<font color="#ffff00">você estava dizendo que, erm,</font>
+<font color="#ffff00">não se trata do Shield,</font>
+
+891
+00:41:06,683 --> 00:41:08,683
+<font color="#ffff00">não se trata do Shield,</font>
+<font color="#ffff00">não se trata do Shield.</font>
+
+892
+00:41:08.723 --> 00:41:10.363
+<cor da fonte="#ffff00">No entanto,</font>
+<font color="#ffff00">quando a missão começou,</font>
+
+893
+00:41:10.403 --> 00:41:12.723
+<font color="#ffff00">você direcionou o grupo para</font>
+<font color="#ffff00">vá para o Shield imediatamente.</font>
+
+894
+00:41:13.923 --> 00:41:15.963
+<font color="#00ffff">Acabei de dizer, e todo o grupo</font>
+<font color="#00ffff">não concordei com isso.</font>
+
+895
+00:41:16.003 --> 00:41:18.563
+<font color="#ffff00">Foi o que ouvi porque... </font> <font color="#00ff00">Deve</font>
+<font color="#00ff00">Eu escolho... </font> <font color="#ffff00">Agora você pode pegar.</font>
+
+896
+00:41:18.603 --> 00:41:19.723
+<font color="#00ff00">Er, de modo que... Esse era eu.</font>
+
+897
+00:41:19.763 --> 00:41:24.203
+<font color="#00ff00">Então, se estivermos tentando escolher um nome,</font>
+<font color="#00ff00">o nome que pensei ser você,</font>
+
+898
+00:41:24,243 --> 00:41:25,483
+<font color="#00ff00">Então, se estivermos tentando escolher um nome,</font>
+<font color="#00ff00">o nome que pensei ser você,</font>
+
+899
+00:41:25.523 --> 00:41:28.483
+<cor da fonte="#00ff00">e... </font> <font color="#00ffff">Right.</font> <font color="#00ff00">.. Para ser honesto, </fonte>
+<font color="#00ff00">foi esse comentário.</font>
+
+900
+00:41:28,523 --> 00:41:31,083
+<font color="#00ff00">"Esqueça os escudos,</font>
+<font color="#00ff00">esqueça os escudos." </fonte>
+
+901
+00:41:31.123 --> 00:41:33.643
+<font color="#00ff00">E então nos reunimos e foi,</font>
+<font color="#00ff00">"Vamos pegar os escudos." </fonte>
+
+902
+00:41:33.683 --> 00:41:35.323
+<font color="#00ff00">Mas também estou com você</font>
+<font color="#00ff00">e eu concordei.</font>
+
+903
+00:41:35,363 --> 00:41:37,123
+<font color="#00ffff">Ontem, as pessoas escolheram Shields</font>
+
+904
+00:41:37.163 --> 00:41:41.083
+<font color="#00ffff">e não faça nenhum esforço ou contribuição em</font>
+<font color="#00ffff">all, e eu tenho um problema com isso.</font>
+
+905
+00:41:41,123 --> 00:41:42,443
+<font color="#00ffff">Temos tudo o que fizemos hoje,</font>
+
+906
+00:41:42.483 --> 00:41:44.123
+<font color="#00ffff">então não poderíamos fazer mais hoje</font>
+<font color="#00ffff">do que fizemos.</font>
+
+907
+00:41:44,163 --> 00:41:45,963
+<font color="#00ffff">Fizemos tudo</font>
+<font color="#00ffff">e o Shield foi um bônus no topo.</font>
+
+908
+00:41:46,003 --> 00:41:47,203
+<font color="#00ffff">O Shield estava bem perto de nós.</font>
+
+909
+00:41:47,243 --> 00:41:50,723
+<font color="#ffff00">Minha coisa é que eu me senti como o</font>
+<font color="#ffff00">desafio era mais importante.</font>
+
+910
+00:41:50.763 --> 00:41:52.403
+<font color="#ffff00">Eu não... claro que eu gostaria</font>
+<font color="#ffff00">the Shield.</font>
+
+911
+00:41:52.443 --> 00:41:54.843
+<font color="#ffff00">Seria injusto para mim</font>
+<font color="#ffff00">para ir primeiro para o Shield, porque</font>
+
+912
+00:41:54,883 --> 00:41:57,243
+<font color="#ffff00">Não concluí o desafio</font>
+<font color="#ffff00">e as pessoas no castelo... </fonte>
+
+913
+00:41:57,283 --> 00:41:58,323
+<font color="#00ffff">Então por que ser hipócrita?</font>
+
+914
+00:41:58,363 --> 00:42:00,843
+<font color="#ffff00">Não é hipócrita, porque eu... </fonte>
+<font color="#00ffff">Você fez a mesma coisa ontem.</font>
+
+915
+00:42:00.883 --> 00:42:02.763
+<font color="#ffff00">Não é hipócrita. Todos nós tivemos que</font>
+<font color="#ffff00">passe pelo Shield.</font>
+
+916
+00:42:02.803 --> 00:42:06.603
+<font color="#ffff00">Ontem todos tinham o igual</fonte>
+<font color="#ffff00">oportunidade de obter um Shield.</font>
+
+917
+00:42:06.643 --> 00:42:09.163
+<font color="#ffff00">Não tive oportunidades iguais,</font>
+<font color="#ffff00">porque não sei nadar.</font>
+
+918
+00:42:09,203 --> 00:42:11,003
+<font color="#00ffff">Mas o problema é... </fonte>
+<font color="#00ff00">Não, ela está falando.</font>
+
+919
+00:42:11.043 --> 00:42:12.483
+<font color="#00ff00">Só por um minuto, por favor.</font>
+
+920
+00:42:12.523 --> 00:42:15.603
+<font color="#ffff00">Portanto, os dois escudos na fonte </>
+<font color="#ffff00">sea não estavam disponíveis para mim.</font>
+
+921
+00:42:15,643 --> 00:42:17,563
+<font color="#00ffff">A razão pela qual eu digo que é</font>
+<font color="#00ffff">hipócrita é que você não pode dizer</font>
+
+922
+00:42:17.603 --> 00:42:19.083
+<font color="#00ffff">você estava fazendo isso para a equipe</font>
+<font color="#00ffff">em vez disso,</font>
+
+923
+00:42:19.123 --> 00:42:20.803
+<font color="#00ffff">quando as pessoas estavam paradas</font>
+<font color="#00ffff">bound quando você foi em frente.</font>
+
+924
+00:42:20.843 --> 00:42:22.923
+<font color="#00ffff">Eu estava desamarrando Miles</font>
+<font color="#00ffff">e eu vi você correr para ele.</font>
+
+925
+00:42:22.963 --> 00:42:25.963
+<font color="#00ffff">Então, sugerir que ele fez isso para... </fonte>
+<font color="#ffff00">Não, na verdade, perguntei a alguém,</font>
+<font color="#ffff00">"Alguém precisa de ajuda?" </fonte>
+
+926
+00:42:26.003 --> 00:42:27.643
+<font color="#ffff00">OK, tudo bem.</font> <font color="#00ffff">Eu deixo você falar, vamos</font>
+<cor da fonte="#00ffff">me talk.</font>
+
+927
+00:42:27,683 --> 00:42:29,403
+<cor da fonte="#00ffff">.. Sugira que você fez isso para a fonte </>
+<cor da fonte="#00ffff">team</font>
+
+928
+00:42:29.443 --> 00:42:31.243
+<font color="#00ffff">mas ele não o fez é apenas hipócrita.</font>
+
+929
+00:42:31.283 --> 00:42:33.483
+<font color="#00ff00">Pessoal, eu só quero</font>
+<font color="#00ff00">saiba quem é o traidor.</font>
+
+930
+00:42:33.523 --> 00:42:36.443
+<font color="#00ff00">Por favor, eu só quero dizer my</font>
+<font color="#00ff00">speech, porque estamos nesse tópico,</font>
+
+931
+00:42:36,483 --> 00:42:39,483
+<font color="#00ff00">Sim, então obviamente eu não tenho nada</font>
+<font color="#00ff00">para sair e, tipo, honestamente, </font>
+
+932
+00:42:39,523 --> 00:42:43,243
+<font color="#00ff00">a única coisa que tenho que fazer é</font>
+<font color="#00ff00">você, Zack, como um traidor, porque</font>
+
+933
+00:42:43,283 --> 00:42:46,403
+<font color="#00ff00">para mim, é como, você é tão, tipo, </font>
+<font color="#00ff00">você é sempre um cara risonho e outras coisas</font>
+
+934
+00:42:46,443 --> 00:42:49,323
+<font color="#00ff00">assim, e a única coisa que tenho</font>
+<font color="#00ff00">got to go off é a mesa redonda</font>
+
+935
+00:42:49,363 --> 00:42:52,083
+<font color="#00ff00">de quando os Traidores foram escolhidos,</font>
+<font color="#00ff00">você estava rindo de qualquer coisa, qualquer</fonte>
+
+936
+00:42:52.123 --> 00:42:54.683
+<font color="#00ff00">sound, como se vocês estivessem fazendo, tipo</font>
+<font color="#00ff00">risos, você sabe o que quero dizer?</font>
+
+937
+00:42:54.723 --> 00:42:56.203
+<font color="#00ffff">Tudo desde então... </fonte>
+
+938
+00:42:56,243 --> 00:42:58,483
+<font color="#00ff00">Não, mas, quando você pegou a venda</font>
+<font color="#00ff00">off, era como uma fonte diferente,</>
+
+939
+00:42:58,523 --> 00:43:00,963
+<font color="#00ff00">como se, tipo, fosse algo </font>
+<font color="#00ff00">aconteceu.</font>
+
+940
+00:43:02.003 --> 00:43:03.723
+<font color="#00ff00">Então eu só queria colocar</font>
+<font color="#00ff00">que está por aí.</font>
+
+941
+00:43:03.763 --> 00:43:05.203
+<font color="#00ff00">Isso é tudo que eu tive que sair.</font>
+
+942
+00:43:05,243 --> 00:43:09,443
+<font color="#ffff00">Eu tenho uma suspeita e é apenas</font>
+<font color="#ffff00">com base no que testemunhei</font>
+
+943
+00:43:09,483 --> 00:43:13,123
+<font color="#ffff00">e o que aconteceu comigo,</font>
+<font color="#ffff00">e, er, Sonja, é você mesmo.</font>
+
+944
+00:43:13,163 --> 00:43:14,203
+<font color="#00ffff">Yep.</font>
+
+945
+00:43:14.243 --> 00:43:18.203
+<font color="#ffff00">Ontem na tarefa, Zack,</font>
+<font color="#ffff00">você fez um comentário dizendo,</font>
+
+946
+00:43:18.243 --> 00:43:20.963
+<font color="#ffff00">"Vou dormir bem esta noite" e, em seguida</font>
+<font color="#ffff00">eu e Evie brincamos e dissemos: </font>
+
+947
+00:43:21.003 --> 00:43:23.083
+<font color="#ffff00">"Oh, você vai agora?" Você sabe?</font>
+
+948
+00:43:23.123 --> 00:43:25.403
+<font color="#ffff00">Potencialmente isso é Traitor speak.</font>
+
+949
+00:43:27.323 --> 00:43:29.403
+<font color="#ffff00">Obviamente, sabemos como você é.</font>
+
+950
+00:43:29.443 --> 00:43:31.123
+<font color="#ffff00">Você conversa, você brinca.</font>
+
+951
+00:43:31.163 --> 00:43:34.003
+<font color="#ffff00">Nós dissemos, mas isso é apenas Zack,</font>
+<font color="#ffff00">você sabe, ele fala muito,</font>
+
+952
+00:43:34,043 --> 00:43:35,403
+<font color="#ffff00">ele é como um pequeno Jack Russell.</font>
+
+953
+00:43:35,443 --> 00:43:38,683
+<font color="#ffff00">E depois entrei na sala de sol e</font>
+<font color="#ffff00">havia um grupo de vocês, incluindo</font>
+
+954
+00:43:38.723 --> 00:43:42.403
+<font color="#ffff00"> você mesma, Sonja, e você disse: "Apenas</fonte>
+<font color="#ffff00">o homem que queremos ver", para mim.</font>
+
+955
+00:43:42.443 --> 00:43:45.603
+<font color="#ffff00">E então Sonja, você disse: "Apenas</fonte>
+<font color="#ffff00">diga a eles tudo o que você disse que</font>
+
+956
+00:43:45,643 --> 00:43:47,483
+<font color="#ffff00">"Zack disse," então... </font> <font color="#00ffff">yes.</font>
+<cor da fonte="#ffff00">.. Na minha opinião, </font>
+
+957
+00:43:47,523 --> 00:43:49,203
+<font color="#ffff00">você estava mexendo um pouco.</font>
+
+958
+00:43:51.523 --> 00:43:52.603
+<font color="#00ff00">Estou tomando isso como prova</font>
+
+959
+00:43:52,643 --> 00:43:55,483
+<font color="#00ff00">e informações que obviamente estou</font>
+<font color="#00ff00">reunindo praticamente now.</font> <font color="#00ffff">yes.</font>
+
+960
+00:43:55.523 --> 00:43:58.883
+<font color="#00ff00">Obviamente, quando você ouve sobre isso... </fonte>
+<font color="#00ffff">yes.</font> <font color="#00ff00">.. Parece deflexão.</fonte>
+
+961
+00:43:58.923 --> 00:44:01.283
+<font color="#ffff00">Acho que é realmente sobre</font>
+<font color="#ffff00">the stirring.</font>
+
+962
+00:44:01.323 --> 00:44:03.803
+<font color="#ffff00">Erm, eu vi você fazer isso diretamente.</font>
+
+963
+00:44:05,123 --> 00:44:07,003
+<font color="#ffff00">Você está iniciando uma conversa</font>
+<font color="#ffff00">e imediatamente,</font>
+
+964
+00:44:07.043 --> 00:44:09.363
+<font color="#ffff00">antes de dizer qualquer coisa,</font>
+<font color="#ffff00">"Oh, bem, você é um traidor, então..."</font>
+
+965
+00:44:10.963 --> 00:44:12.643
+<font color="#ffff00">Eu me sinto desconfortável com você, basicamente.</font>
+
+966
+00:44:12.683 --> 00:44:14.283
+<font color="#00ffff">sim, posso ver por quê</font>
+<font color="#00ffff">você está dizendo.</font>
+
+967
+00:44:15.603 --> 00:44:19.963
+<font color="#00ffff">Se eu fosse um traidor, o que não sou,</font>
+<font color="#00ffff">então acho que estaria fazendo</font>
+
+968
+00:44:20.003 --> 00:44:24.123
+<font color="#00ffff">um esforço para realmente construir</font>
+<font color="#00ffff">alianças e amigos.</font>
+
+969
+00:44:24,163 --> 00:44:27,843
+<font color="#00ffff">Posso olhar todos vocês nos olhos</font>
+<font color="#00ffff">e dizer que sou um fiel,</font>
+
+970
+00:44:27.883 --> 00:44:29.603
+<cor da fonte="#00ffff">o que você pensar.</font>
+
+971
+00:44:29.643 --> 00:44:30.963
+<font color="#00ffff">Você está desperdiçando seu voto.</font>
+
+972
+00:44:31.003 --> 00:44:32.123
+<font color="#00ffff">Não faça isso, pessoal.</font>
+
+973
+00:44:34.083 --> 00:44:37.923
+<font color="#00ff00">Vou dizer aqui, não</font>
+<font color="#00ff00">acha que você é um traidor, a propósito.</font>
+
+974
+00:44:37.963 --> 00:44:41.043
+<font color="#ffff00">Acho que como todo mundo, tipo,</font>
+<font color="#ffff00">estamos apenas agarrados a canudos aqui.</font>
+
+975
+00:44:41.083 --> 00:44:44.403
+<font color="#00ffff">yes.</font> <font color="#00ff00">Há muita direção</font>
+<font color="#00ff00">indo em sua direção, Sonja... </font> <font color="#00ffff">yes.</font>
+
+976
+00:44:44.443 --> 00:44:48.323
+<cor da fonte="#00ff00">.. e se eu te escolher esta noite... </fonte>
+<font color="#00ffff">yes.</font> <font color="#00ff00">.. e não é você, </font>
+
+977
+00:44:48.363 --> 00:44:51.683
+<font color="#00ff00">Sinto muito, Ross, mas estarei procurando</font>
+<font color="#00ff00">para você depois disso.</font>
+
+978
+00:44:51.723 --> 00:44:53.643
+<font color="#ffff00">Ooh, palavras fortes.</font>
+
+979
+00:44:53,683 --> 00:44:55,763
+<font color="#00ffff">Três outras pessoas também fizeram</font>
+<font color="#00ffff">um ponto sobre Sonja,</font>
+
+980
+00:44:55,803 --> 00:44:58,363
+<font color="#00ffff">então por que... por que você me alvejaria?</font>
+<font color="#00ff00">Sim, porque eu sinto que</font>
+
+981
+00:44:58,403 --> 00:45:00,723
+<font color="#00ff00">a direção está vindo de você</font>
+
+982
+00:45:00,763 --> 00:45:03,523
+<font color="#00ff00">e eu estou apenas sentado e</font>
+<font color="#00ff00">observando, certo?</font>
+
+983
+00:45:03,563 --> 00:45:05,643
+<font color="#00ff00">Não estou dizendo que você está definitivamente</font>
+<font color="#00ff00">a Traitor,</font>
+
+984
+00:45:05,683 --> 00:45:07,403
+<font color="#00ff00">Estou dizendo que vou</font>
+<font color="#00ff00">para estar olhando para você.</font>
+
+985
+00:45:08,763 --> 00:45:12,163
+Jogadores, o tempo para conversar acabou.
+
+986
+00:45:13.643 --> 00:45:17.483
+Eu vou precisar de você
+escreva um nome,
+
+987
+00:45:17.523 --> 00:45:22.043
+e esse nome é a pessoa que você
+acreditar é um traidor.
+
+988
+00:45:37.043 --> 00:45:39.763
+Todos trancaram em seus
+respostas?<font color="#ffff00">yes.</font> <font color="#00ffff">yes.</font>
+
+989
+00:45:43,403 --> 00:45:46,203
+Jaz, vamos começar com você.
+
+990
+00:45:48,443 --> 00:45:52,363
+Por favor, diga-me o nome do
+pessoa que você acredita ser um traidor
+
+991
+00:45:52,403 --> 00:45:53,483
+e por quê.
+
+992
+00:45:56,603 --> 00:45:59,883
+<font color="#ffff00">Só vou com, er, Sonja,</font>
+<font color="#ffff00">logo após a audição,</font>
+
+993
+00:45:59,923 --> 00:46:04,603
+<font color="#ffff00">ouvindo a classificação do grupo.</font>
+<font color="#ffff00">yes, Sonja.</font> <font color="#00ffff">Fair enough.</font> <font color="#ffff00">yes.</font>
+
+994
+00:46:04,643 --> 00:46:08,083
+Diane, quem você acredita que é
+um traidor e por quê?
+
+995
+00:46:08.123 --> 00:46:11.363
+<font color="#00ff00">Eu estou indo para Anthony, porque eu não</font>
+<font color="#00ff00">acredita que você é um jogador de equipe.</font>
+
+996
+00:46:15.883 --> 00:46:16.883
+Harry?
+
+997
+00:46:17,923 --> 00:46:19,203
+<font color="#ffff00">Então eu escolhi Zack.</font>
+
+998
+00:46:19,243 --> 00:46:20,923
+<font color="#ffff00">Obviamente, eu te disse.</font>
+
+999
+00:46:20.963 --> 00:46:23.323
+<font color="#ffff00">Tipo, eu sei... Eu sei que pode apenas</font>
+<font color="#ffff00"> seja você e espero estar errado,</font>
+
+1000
+00:46:23.363 --> 00:46:25.563
+<font color="#ffff00">honestamente, mas sinto que poderia</font>
+<font color="#ffff00">ser a pressão adicional de</font>
+
+1001
+00:46:25.603 --> 00:46:27.843
+<font color="#ffff00">ser um traidor.</font> <font color="#00ffff">Você está errado.</font>
+
+1002
+00:46:29.763 --> 00:46:32.763
+Zack, qual nome está no seu quadro
+e por quê?
+
+1003
+00:46:32.803 --> 00:46:34.163
+<font color="#00ff00">Eu fui com você, Sonja.</font>
+
+1004
+00:46:34,203 --> 00:46:37,203
+<font color="#00ff00">Erm, sinto que era o único</font>
+<font color="#00ff00">evidência que tínhamos.</font>
+
+1005
+00:46:37,243 --> 00:46:40,803
+<font color="#00ff00">Peço desculpas por isso... </font> <font color="#00ffff">yes.</font> <font color="#00ff00">.. I</font>
+<cor da fonte="#00ff00">realmente... Eu realmente gosto de você.</font>
+
+1006
+00:46:42.883 --> 00:46:44.883
+Jonny, em quem você votou?
+
+1007
+00:46:44.923 --> 00:46:48.243
+<font color="#ffff00">Sonja, sua linda senhora,</font>
+<font color="#ffff00">Sinto muito.</font>
+
+1008
+00:46:48,283 --> 00:46:52,483
+<font color="#ffff00">Com base em possíveis evidências... </font> <font color="#00ffff">Mm.</font>
+<cor da fonte="#ffff00">.. Votei em você.</font> <font color="#00ffff">yes.</font>
+
+1009
+00:46:55.643 --> 00:46:58.083
+Mollie, em quem você votou?
+
+1010
+00:46:58,123 --> 00:47:00,003
+<font color="#00ff00">Sim, sinto muito, Sonja... </fonte>
+<cor da fonte="#00ffff">sim.</fonte>
+
+1011
+00:47:00.043 --> 00:47:02.563
+<cor da fonte="#00ff00">.. Eu acho que você é uma mulher fabulosa, < / fonte>
+<font color="#00ff00">mas votei em você.</font>
+
+1012
+00:47:02,603 --> 00:47:03,643
+<font color="#00ffff">Obrigado.</font>
+
+1013
+00:47:06.883 --> 00:47:10.363
+Miles.<font color="#ffff00">yes, acabei de usar</font>
+<font color="#ffff00">você mesmo, Sonja.</font> <font color="#00ffff">yes, fine.</font>
+
+1014
+00:47:10.403 --> 00:47:14.843
+<font color="#ffff00">Só porque meio que se depara</font>
+<font color="#ffff00">com jogabilidade desleixada, talvez.</font>
+
+1015
+00:47:14,883 --> 00:47:14,963
+<font color="#ffff00">Só porque meio que se depara</font>
+<font color="#ffff00">com jogabilidade desleixada, talvez.</font>
+
+1016
+00:47:16,163 --> 00:47:19,763
+Tracey.<font color="#00ff00">Erm, eu fui atrás de você,</font>
+<cor da fonte="#00ff00">Anthony.</font>
+
+1017
+00:47:19.803 --> 00:47:22.363
+<font color="#00ff00">Desculpe, não é pessoal,</font>
+<font color="#00ff00">mas seu comportamento</font>
+
+1018
+00:47:22,403 --> 00:47:26,203
+<font color="#00ff00">do trem em comparação com</font>
+<font color="#00ff00">depois foi muito diferente.</font>
+
+1019
+00:47:29,723 --> 00:47:32,683
+Sonja
+quem você acredita que é um traidor?
+
+1020
+00:47:32.723 --> 00:47:36.123
+<font color="#ffff00">Bem, Ross, isso é assim</font>
+<font color="#ffff00">uma coincidência, porque, erm,</font>
+
+1021
+00:47:36,163 --> 00:47:41,363
+<font color="#ffff00">Votei em você e no motivo</font>
+<font color="#ffff00">why não tem nada a ver com tonight.</font>
+
+1022
+00:47:41,403 --> 00:47:41,483
+<font color="#ffff00">Votei em você e no motivo</font>
+<font color="#ffff00">why não tem nada a ver com tonight.</font>
+
+1023
+00:47:41.523 --> 00:47:44.763
+<font color="#ffff00">Na verdade</font>
+<font color="#ffff00">quando estávamos em volta desta mesa</font>
+
+1024
+00:47:44,803 --> 00:47:47,723
+<font color="#ffff00">e todos nós tiramos nossas vendas,</font>
+<font color="#ffff00">pensei</font>
+
+1025
+00:47:47.763 --> 00:47:51.363
+<font color="#ffff00">você reagiu de forma bastante estranha a</font>
+<font color="#ffff00">algo que Claudia disse.</font>
+
+1026
+00:47:53,643 --> 00:47:55,363
+Então, um resumo de votos.
+
+1027
+00:47:55,403 --> 00:47:57,843
+Cinco votos para Sonja,
+dois para Anthony,
+
+1028
+00:47:57.883 --> 00:48:00.483
+um para Zack e outro para Ross.
+
+1029
+00:48:02.483 --> 00:48:05.363
+Andrew, seu nome, por favor, e por quê.
+
+1030
+00:48:05,403 --> 00:48:08,563
+<font color="#00ff00">Antes de vir aqui, sou um forte</fonte>
+<font color="#00ff00">cara mental e fisicamente</font>
+
+1031
+00:48:08,603 --> 00:48:10,083
+<font color="#00ff00">e eu disse que faria apenas</font>
+<font color="#00ff00">vá em evidência,</font>
+
+1032
+00:48:10,123 --> 00:48:13,283
+<font color="#00ff00">mas com base nas evidências que tivemos</font>
+<font color="#00ff00">hoje à noite, tenho que votar em Sonja.</font>
+
+1033
+00:48:15.083 --> 00:48:17.283
+Jasmim
+quem você acredita que é um traidor?
+
+1034
+00:48:17.323 --> 00:48:18.643
+<font color="#ffff00">Não é nada pessoal.</font>
+
+1035
+00:48:18.683 --> 00:48:20.723
+<font color="#ffff00">É baseado apenas no que todos</fonte>
+<font color="#ffff00">estava dizendo hoje.</font>
+
+1036
+00:48:20.763 --> 00:48:22.243
+<font color="#ffff00">Então estou votando em você, Sonja.</font>
+
+1037
+00:48:26,963 --> 00:48:28,163
+Roß.
+
+1038
+00:48:28,203 --> 00:48:32,283
+<font color="#00ff00">Sim, Sonja, sinto muito,</font>
+<font color="#00ff00">Saí dos fatos.</font>
+
+1039
+00:48:32,323 --> 00:48:35,283
+<font color="#00ff00">Se você acabar saindo, vou sentir falta </font>
+<font color="#00ff00">você, vou sentir falta de suas roupas.</font>
+
+1040
+00:48:36,523 --> 00:48:38,723
+Ash, em quem você votou?
+
+1041
+00:48:38,763 --> 00:48:40,443
+<font color="#ffff00">Er, eu tenho que te dar meu voto,</font>
+<cor da fonte="#ffff00">Sonja.</font>
+
+1042
+00:48:40,483 --> 00:48:41,843
+<font color="#00ffff">Tudo bem, Ash.</font>
+
+1043
+00:48:41,883 --> 00:48:46,203
+<font color="#ffff00">Erm, mas eu só tenho que dizer,</font>
+<font color="#ffff00">tem sido muito, muito ri.</font>
+
+1044
+00:48:46.243 --> 00:48:46.403
+<font color="#ffff00">Erm, mas eu só tenho que dizer,</font>
+<font color="#ffff00">tem sido muito, muito ri.</font>
+
+1045
+00:48:48,403 --> 00:48:50,923
+Anthony, que nome você tem
+escrito, por favor?
+
+1046
+00:48:50,963 --> 00:48:53,203
+<font color="#00ff00">Bem, acho que não vai</font>
+<font color="#00ff00">ser uma surpresa.</font>
+
+1047
+00:48:53.243 --> 00:48:55.243
+<font color="#00ff00">Meu voto é para Diane.</font>
+
+1048
+00:48:55,283 --> 00:48:57,283
+<font color="#00ff00">Para alguém coagir as coisas</font>
+
+1049
+00:48:57.323 --> 00:49:02.123
+<font color="#00ff00">e esses tipos de atributos</font>
+<font color="#00ff00">são atributos que</font>
+
+1050
+00:49:02.163 --> 00:49:02.283
+<font color="#00ff00">e esses tipos de atributos</font>
+<font color="#00ff00">são atributos que</font>
+
+1051
+00:49:02.323 --> 00:49:04.563
+<font color="#00ff00">Eu associaria a um traidor</fonte>
+<font color="#00ff00">tentando liderar as pessoas.</font>
+
+1052
+00:49:04,603 --> 00:49:07,203
+<font color="#00ff00">Então, é por isso que meu voto é para você,</font>
+<cor da fonte="#00ff00">Diane.</font>
+
+1053
+00:49:08,683 --> 00:49:11,163
+Meg, quem você acredita ser uma traidora
+e por quê?
+
+1054
+00:49:11.203 --> 00:49:13.083
+<font color="#ffff00">Vou usar Diane,</font>
+
+1055
+00:49:13.123 --> 00:49:17.283
+<font color="#ffff00">mas espero que você me faça sentir realmente</font>
+<font color="#ffff00">estúpido e que esta votação está errada.</font>
+
+1056
+00:49:18,683 --> 00:49:19,843
+Uma contagem de votos.
+
+1057
+00:49:19.883 --> 00:49:24.243
+Temos nove para Sonja,
+dois para Anthony, dois para Diane,
+
+1058
+00:49:24.283 --> 00:49:26.923
+um para Zack e outro para Ross.
+
+1059
+00:49:29,323 --> 00:49:32,363
+Evie, quem você anotou?
+
+1060
+00:49:32.403 --> 00:49:33.363
+<cor da fonte="#00ff00">Sonja.</font>
+
+1061
+00:49:36.083 --> 00:49:39.963
+Brian.<font color="#ffff00">Acho que é apenas ruim</font>
+<font color="#ffff00">tomada de decisão sobre o seu... em</fonte>
+
+1062
+00:49:40,003 --> 00:49:41,443
+<font color="#ffff00">sua parte, Sonja.</font>
+
+1063
+00:49:42,563 --> 00:49:43,563
+<font color="#ffff00">Sorry.</font>
+
+1064
+00:49:45.003 --> 00:49:46.003
+Charlotte.
+
+1065
+00:49:46.043 --> 00:49:48.163
+<font color="#00ff00">Você não me convenceu</font>
+<font color="#00ff00">que você não é um traidor,</font>
+
+1066
+00:49:48,203 --> 00:49:49,723
+<font color="#00ff00">então votei em você, Sonja.</font>
+
+1067
+00:49:53.683 --> 00:49:58.443
+<font color="#ffff00">Acho que essa pessoa está jogando</font>
+<font color="#ffff00">um jogo neste momento.</font>
+
+1068
+00:49:58,483 --> 00:49:59,923
+<font color="#ffff00">Acho que essa pessoa está jogando</font>
+<font color="#ffff00">um jogo neste momento.</font>
+
+1069
+00:49:59,963 --> 00:50:02,683
+<font color="#ffff00">Sinto muito, Sonja,</font>
+<font color="#ffff00">e eu realmente espero estar errado.</font>
+
+1070
+00:50:02.723 --> 00:50:04.203
+<font color="#00ffff">Votei em você, Sonja.</font>
+
+1071
+00:50:08,643 --> 00:50:10,963
+E para a votação final, Charlie.
+
+1072
+00:50:11,003 --> 00:50:15,203
+<font color="#00ff00">Eu realmente espero que você seja um traidor,</font>
+<font color="#00ff00">porque eu acho você tão adorável.</font>
+
+1073
+00:50:22,883 --> 00:50:25,283
+Sonja
+você recebeu o maior número de votos.
+
+1074
+00:50:25,323 --> 00:50:27,043
+Por favor, venha e junte-se a mim.
+
+1075
+00:50:27.083 --> 00:50:30.883
+# Ouça o chamado de batalha
+
+1076
+00:50:30,923 --> 00:50:35,523
+# Cidades se erguem e impérios caem
+
+1077
+00:50:35,563 --> 00:50:39,883
+# Mas é uma guerra que vale a pena lutar... #
+
+1078
+00:50:41.283 --> 00:50:43.843
+Sonja, você foi banida.
+
+1079
+00:50:45,683 --> 00:50:49,603
+Agora você pode revelar,
+você é um traidor ou um fiel?
+
+1080
+00:50:52.243 --> 00:50:56.843
+<font color="#00ffff">Bem, pessoal, os fatos são importantes para</font>
+<font color="#00ffff">me como eles obviamente são para você, então</font>
+
+1081
+00:50:56,883 --> 00:50:57,363
+<font color="#00ffff">Bem, pessoal, os fatos são importantes para</font>
+<font color="#00ffff">me como eles obviamente são para você, então</font>
+
+1082
+00:50:57,403 --> 00:51:02,203
+<font color="#00ffff">aqui está um fato que eu gostaria agora</font>
+<font color="#00ffff">para confirmar para você,</font>
+
+1083
+00:51:02.243 --> 00:51:02.403
+<font color="#00ffff">aqui está um fato que eu gostaria agora</font>
+<font color="#00ffff">para confirmar para você,</font>
+
+1084
+00:51:02.443 --> 00:51:03.803
+<font color="#00ffff">e isso é... </fonte>
+
+1085
+00:51:05,603 --> 00:51:07,603
+<cor da fonte="#00ffff">.. que eu sou... </fonte>
+
+1086
+00:51:07.643 --> 00:51:09.443
+<cor da fonte="#00ffff">.. a Fiel.</font> <font color="#ffff00">Sim!</font>
+
+1087
+00:51:13.603 --> 00:51:18.123
+# E continuaremos lutando
+
+1088
+00:51:18.163 --> 00:51:18.723
+# E continuaremos lutando
+
+1089
+00:51:21.643 --> 00:51:26.203
+# É uma guerra que vale a pena lutar
+
+1090
+00:51:29.283 --> 00:51:33.483
+# É uma guerra que vale a pena lutar. #
+
+1091
+00:51:33.523 --> 00:51:38.323
+Então, você acabou de banir um realmente,
+Fiel realmente inteligente.
+
+1092
+00:51:38.363 --> 00:51:39.123
+Então, você acabou de banir um realmente,
+Fiel realmente inteligente.
+
+1093
+00:51:40,363 --> 00:51:44,363
+Você terá outra chance amanhã
+mas antes disso,
+
+1094
+00:51:44,403 --> 00:51:45,883
+alguém será assassinado.
+
+1095
+00:51:48.043 --> 00:51:49.283
+Durma bem.
+
+1096
+00:51:54,203 --> 00:51:56,003
+<font color="#ffff00">Eu sabia que ela era uma Fiel.</font>
+
+1097
+00:51:56,043 --> 00:51:59,083
+<font color="#ffff00">Sonja absolutamente arrasada</font>
+<cor da fonte="#ffff00">banished.</font>
+
+1098
+00:51:59,123 --> 00:52:02,243
+<font color="#00ffff">Não, acabamos de aprender</font>
+<font color="#00ffff">precisamos nos comunicar mais, man.</font>
+
+1099
+00:52:02.283 --> 00:52:04.203
+<font color="#00ff00">Acho que é mentalidade de rebanho, no entanto.</font>
+
+1100
+00:52:04.243 --> 00:52:07.923
+<font color="#ffff00">Sabe de uma coisa, é... Eu </fonte>
+<font color="#ffff00">saiu algo que aconteceu.</font>
+
+1101
+00:52:07,963 --> 00:52:11,203
+<font color="#00ffff">O mesmo aqui.</font> <font color="#ffff00">Isso é tudo que você pode fazer.</font>
+<font color="#00ffff">O que mais... O que mais tínhamos?</font>
+
+1102
+00:52:12.403 --> 00:52:14.923
+<font color="#00ff00">Estou arrasado por haver dois</font>
+<font color="#00ff00">Faithfuls gone,</font>
+
+1103
+00:52:14.963 --> 00:52:17.283
+<font color="#00ff00">mas eu estava indo em fatos.</font>
+
+1104
+00:52:17.323 --> 00:52:20.643
+<font color="#00ff00">Sonja facilitou muito para mim</font>
+<font color="#00ff00">para votar nela.</font>
+
+1105
+00:52:22.043 --> 00:52:24.923
+<font color="#00ff00">Jonny, ele fez uma pequena troca</fonte>
+<font color="#00ff00">bem no final</font>
+
+1106
+00:52:24.963 --> 00:52:27.563
+<font color="#00ff00">e eu podia vê-lo, ele estava</font>
+<font color="#00ff00">olhando para mim do outro lado da tabela.</font>
+
+1107
+00:52:27.603 --> 00:52:29.603
+<font color="#00ff00">Vou ter que manter</font>
+<font color="#00ff00"> olho nele, eu acho.</font>
+
+1108
+00:52:40.123 --> 00:52:41.963
+<font color="#ffff00">Ninguém pode ter fisicamente</font>
+<font color="#ffff00">confie aqui,</font>
+
+1109
+00:52:42.003 --> 00:52:44.323
+<font color="#ffff00">então isso significa a comunicação</fonte>
+<font color="#ffff00">tem que ser double.</font>
+
+1110
+00:52:46.043 --> 00:52:49.163
+<font color="#00ffff">Ela não era uma traidora,</font>
+<font color="#00ffff">mas você agiu como se ele fosse.</font> <font color="#00ff00">Yes.</font>
+
+1111
+00:52:49,203 --> 00:52:50,283
+<font color="#00ffff">E esse era o problema.</font>
+
+1112
+00:52:50.323 --> 00:52:52.923
+<font color="#ffff00">Acho que obviamente ela também estava</font>
+<font color="#ffff00">inteligente para seu próprio bem.</font>
+
+1113
+00:52:52.963 --> 00:52:55.203
+<font color="#00ffff">É assim que ela agiu.</font>
+<font color="#00ffff">Eu me sinto muito mal.</font>
+
+1114
+00:52:58.163 --> 00:52:59.683
+<font color="#ffff00">Eu estava tão convencido de que ela não estava... </fonte>
+
+1115
+00:52:59.723 --> 00:53:01.363
+<font color="#00ffff">Eu estava tão convencido de que ela estava.</font>
+<cor da fonte="#ffff00">.. um traidor</fonte>
+
+1116
+00:53:01.403 --> 00:53:03.923
+<font color="#ffff00">que eu pensei: "Sabe de uma coisa</font>
+<font color="#ffff00">Vou apenas dizer isso"</font>
+
+1117
+00:53:03,963 --> 00:53:06,723
+<font color="#ffff00">então eu disse isso e, claro, quando</font>
+<font color="#ffff00">ela era uma Fiel, eu disse: "Sim!" </fonte>
+
+1118
+00:53:06.763 --> 00:53:09.243
+<font color="#ffff00">Mas isso é horrível... </font> <font color="#00ffff">yes.</font> <font color="#ffff00">.. porque</fonte>
+<font color="#ffff00">teria sido muito melhor se</font>
+
+1119
+00:53:09,283 --> 00:53:11,483
+<font color="#ffff00">ela tinha sido uma traidora.</font> <font color="#00ffff">Não era</font>
+<font color="#00ffff">o melhor movimento.</font>
+
+1120
+00:53:11.523 --> 00:53:12.923
+<font color="#ffff00">Não, não foi, e sinto muito.</font>
+
+1121
+00:53:12.963 --> 00:53:15.243
+<font color="#ffff00">Eu tinha ficado tão agitado,</font>
+<font color="#ffff00">Eu estava indo... </fonte>
+
+1122
+00:53:15,283 --> 00:53:16,363
+INGESTÃO AGUDA DE AR
+
+1123
+00:53:16,403 --> 00:53:19,043
+<cor da fonte="#ffff00">.. porque acredito absolutamente</font>
+<font color="#ffff00">that she's Faithful,</font>
+
+1124
+00:53:19.083 --> 00:53:23.123
+<font color="#ffff00">e enquanto todos estavam escrevendo</font>
+<font color="#ffff00">e indo para ela,</font>
+
+1125
+00:53:23.163 --> 00:53:25.683
+<font color="#ffff00">Eu pensei: "Você entendeu isso</font>
+<font color="#ffff00">errado." </fonte>
+
+1126
+00:53:25.723 --> 00:53:28.843
+<font color="#00ffff">Eu sei que ela era uma fiel, mas,</font>
+<font color="#00ffff">tipo, me desculpe, me desculpe, querida, </font>
+
+1127
+00:53:28.883 --> 00:53:30.043
+<font color="#00ffff">ela não era muito boa,</font>
+
+1128
+00:53:30.083 --> 00:53:32.963
+<font color="#00ffff">porque tipo, eu não entendo por quê</font>
+<font color="#00ffff">ela estava fazendo tudo isso.</font>
+
+1129
+00:53:33,003 --> 00:53:35,803
+<font color="#00ff00">Mas ela é uma senhora inteligente... </font> <font color="#ffff00">yes.</font>
+<cor da fonte="#00ff00">.. e eu só penso</font>
+
+1130
+00:53:35,843 --> 00:53:39,123
+<font color="#00ff00">ela apenas pensou que nenhum de vocês</font>
+<font color="#00ff00">jamais pensaria que ela era uma traidora.</font>
+
+1131
+00:53:46,563 --> 00:53:49,203
+<font color="#ffff00">Eu realmente não me aqueci com Diane,</font>
+<font color="#ffff00">ou ela não se aproximou de mim.</font>
+
+1132
+00:53:49,243 --> 00:53:52,403
+<font color="#ffff00">Ela me olha o tempo todo.</font>
+<font color="#ffff00">Eu penso: "Ela está sendo suspeita?" </fonte>
+
+1133
+00:53:52,443 --> 00:53:53,803
+<font color="#00ffff">Eu tenho essa teoria estranha.</font>
+
+1134
+00:53:53,843 --> 00:53:56,723
+<font color="#00ffff">Acho que há uma mãe</fonte>
+<font color="#00ffff">e um filho aqui.</font>
+
+1135
+00:53:56,763 --> 00:53:58,403
+<font color="#ffff00">Você?</font>
+
+1136
+00:53:58.443 --> 00:54:00.643
+<font color="#00ffff">E acho que é Diane e Paul.</font>
+<font color="#ffff00">Você acha?</font>
+
+1137
+00:54:00,683 --> 00:54:02,963
+<font color="#00ffff">Bem, com Diane, quando ela veio</font>
+<font color="#00ffff">direto para Anthony,</font>
+
+1138
+00:54:03.003 --> 00:54:04.963
+<font color="#00ffff">direto dos portões.</font>
+<font color="#00ffff">Eu simplesmente não vi isso chegando.</font>
+
+1139
+00:54:05.003 --> 00:54:06.523
+<font color="#00ffff">Eu acho que ela é real, eu acho que ela é</font>
+<cor da fonte="#00ffff">astúcia,</fonte>
+
+1140
+00:54:06,563 --> 00:54:07,803
+<font color="#00ffff">Acho que ela é bastante inteligente.</font>
+
+1141
+00:54:07.843 --> 00:54:09.443
+<font color="#00ffff">Eu acho, er, ela é a mãe de alguém.</font>
+
+1142
+00:54:10.363 --> 00:54:13.083
+# Alguns podem dizer
+
+1143
+00:54:13.123 --> 00:54:15.603
+<font color="#ffff00"># Pode dizer</font>
+
+1144
+00:54:15.643 --> 00:54:19.123
+# Estou desejando que meus dias acabem
+
+1145
+00:54:19.163 --> 00:54:21.003
+# De jeito nenhum... #
+
+1146
+00:54:26,243 --> 00:54:28,443
+<font color="#ffff00">Eu estava tipo, bem, eu estava</font>
+<cor da fonte="#ffff00">like... </fonte>
+
+1147
+00:54:28.483 --> 00:54:30.043
+CHIMES DE SINO
+
+1148
+00:54:31.123 --> 00:54:32.323
+<font color="#ffff00">OK, esse é o nosso... </fonte>
+
+1149
+00:54:33.443 --> 00:54:37.883
+Os sinos do relógio do castelo
+sinal de que a hora do assassinato está próxima.
+
+1150
+00:54:37.923 --> 00:54:38.483
+Os sinos do relógio do castelo
+sinal de que a hora do assassinato está próxima.
+
+1151
+00:54:38,523 --> 00:54:39,803
+<font color="#00ffff">Você toma cuidado.</font> <font color="#00ff00">Tchau, Harry.</font>
+
+1152
+00:54:39,843 --> 00:54:42,363
+<font color="#00ffff">Eu vou, dedos cruzados,</font>
+<font color="#00ffff">até amanhã, espero.</font>
+
+1153
+00:54:43,483 --> 00:54:45,403
+<cor da fonte="#ffff00">Boa noite. Espero que nenhum de nós</font>
+<font color="#ffff00">ser morto.</font>
+
+1154
+00:54:49.283 --> 00:54:51.683
+É hora dos Traidores voltarem
+
+1155
+00:54:51.723 --> 00:54:55.883
+e decidir quais Fiéis serão
+assassinado pelo luar.
+
+1156
+00:54:58.043 --> 00:55:01.603
+# Poderíamos viver juntos
+
+1157
+00:55:01.643 --> 00:55:06.563
+# Caminhando, andando no
+lua... #
+
+1158
+00:55:06.603 --> 00:55:07.523
+# Caminhando, andando no
+lua... #
+
+1159
+00:55:15.723 --> 00:55:17.963
+<cor da fonte="#ffff00">Ah! Olá a todos.</font>
+
+1160
+00:55:18.003 --> 00:55:20.123
+<font color="#ffff00">Boa noite.</font> <font color="#00ffff">Isso foi incrível.</font>
+<cor da fonte="#00ff00">Uau!</fonte>
+
+1161
+00:55:20.163 --> 00:55:21.763
+<font color="#00ff00">Paul, imediatamente, grande esforço.</font>
+
+1162
+00:55:21,803 --> 00:55:24,083
+<font color="#00ff00">Se conseguirmos um escudo, isso é</font>
+<font color="#00ff00">just perfect.</font>
+
+1163
+00:55:24.123 --> 00:55:26.643
+<font color="#ffff00">Veja, passei a culpa para Andrew.</font>
+
+1164
+00:55:26.683 --> 00:55:27.963
+<font color="#00ff00">Perfeitamente também.</font>
+
+1165
+00:55:28.003 --> 00:55:29.963
+<font color="#ffff00">E nos chats posteriores também,</font>
+<font color="#ffff00">pensei,</font>
+
+1166
+00:55:30.003 --> 00:55:31.363
+<font color="#ffff00">"Nossos nomes não estão aparecendo." </fonte>
+
+1167
+00:55:31.403 --> 00:55:33.523
+<cor da fonte="#00ffff">Bem... </font> <font color="#00ff00">Eu tenho que dizer sobre Ash.</font>
+
+1168
+00:55:33.563 --> 00:55:36.243
+<font color="#00ff00">Sim, ouvi seu nome</font>
+<font color="#00ff00">algumas vezes.</font>
+
+1169
+00:55:36.283 --> 00:55:38.763
+<font color="#00ff00">Diane me disse que ela</font>
+
+1170
+00:55:38,803 --> 00:55:43,243
+<font color="#00ff00">acreditava que você se movia pela </font>
+<font color="#00ff00">castle, tipo, muito estranho.</font>
+
+1171
+00:55:43,283 --> 00:55:45,243
+<font color="#ffff00">A questão é que... </fonte>
+<font color="#00ffff">Isso é bizarro.</font>
+
+1172
+00:55:45.283 --> 00:55:47.923
+<font color="#ffff00">Diane agora não tem aliados. Tracey.</font>
+
+1173
+00:55:47.963 --> 00:55:50.123
+<font color="#00ff00">Diane vai se banir.</font>
+
+1174
+00:55:50,163 --> 00:55:51,443
+<font color="#ffff00">Então, quem está na lista?</font>
+
+1175
+00:55:51.483 --> 00:55:54.603
+<font color="#00ffff">Quem tem uma grande influência, então?</font>
+<font color="#00ffff">Kyra tem um enorme... </fonte>
+
+1176
+00:55:54,643 --> 00:55:57,283
+<cor da fonte="#00ffff">.. ela, ela é definitivamente</fonte>
+<font color="#00ffff">one to watch.</font>
+
+1177
+00:55:57,323 --> 00:56:00,123
+<font color="#00ff00">Se ela virar em você,</font>
+<font color="#00ff00">você está em apuros.</font> <font color="#00ffff">Exatamente.</font>
+
+1178
+00:56:00.163 --> 00:56:01.483
+<font color="#ffff00">E imprevisível.</font> <font color="#00ffff">yes.</font>
+
+1179
+00:56:01.523 --> 00:56:04.523
+<font color="#ffff00">E ela tem muito poder em</font>
+<font color="#ffff00">that room.</font>
+
+1180
+00:56:04,563 --> 00:56:05,803
+<font color="#00ff00">Ela tem uma grande voz.</font>
+
+1181
+00:56:05,843 --> 00:56:07,723
+<font color="#00ff00">Ela realmente não deixa ninguém</font>
+<font color="#00ff00">senão digite uma palavra.</font>
+
+1182
+00:56:07,763 --> 00:56:09,443
+<font color="#ffff00">Acho que ela é uma grande voz,</font>
+
+1183
+00:56:09,483 --> 00:56:11,603
+<font color="#ffff00">mas não sei quantas pessoas</font>
+<font color="#ffff00">ouça-a.</font>
+
+1184
+00:56:11.643 --> 00:56:15.083
+<font color="#00ff00">Eu realmente sinto que devemos inverter</font>
+<font color="#00ff00">a tabela, como em, como,</font>
+
+1185
+00:56:15,123 --> 00:56:17,923
+<font color="#00ff00">realmente aleatório, alguém como Jonny.</font>
+
+1186
+00:56:17.963 --> 00:56:18.963
+<font color="#00ffff">Oh, meu Deus.</font>
+
+1187
+00:56:19.003 --> 00:56:21.083
+<font color="#00ff00">Então, eu também sinto que isso vai levar </font>
+<font color="#00ff00">todos para Ross.</font>
+
+1188
+00:56:21.123 --> 00:56:22.563
+<font color="#ffff00">Bem, essa é a coisa.</font>
+
+1189
+00:56:22.603 --> 00:56:24.323
+<font color="#00ff00">Ele disse sobre isso hoje,</font>
+
+1190
+00:56:24.363 --> 00:56:26.523
+<font color="#00ff00">"Se não for Sonja, eu vou ser</font>
+<font color="#00ff00">observando você." </fonte>
+
+1191
+00:56:26,563 --> 00:56:28,683
+<font color="#ffff00">Acho que ninguém</font>
+<font color="#ffff00">iria bani-lo.</font>
+
+1192
+00:56:28,723 --> 00:56:30,723
+<font color="#00ffff">O nome que pensei foi Meg... </fonte>
+
+1193
+00:56:32.083 --> 00:56:34.483
+<cor da fonte="#00ffff">.. porque ela jogou fora um random.</font>
+
+1194
+00:56:34.523 --> 00:56:36.683
+<font color="#00ffff">Eu não esperava que ela o fizesse</font>
+<font color="#00ffff">vá para Diane.</font>
+
+1195
+00:56:36.723 --> 00:56:41.123
+<font color="#00ffff">Se Meg for assassinada, seria tipo</font>
+<font color="#00ffff">de dobrar essa narrativa,</font>
+
+1196
+00:56:41.163 --> 00:56:41.883
+<font color="#00ffff">Se Meg for assassinada, seria tipo</font>
+<font color="#00ffff">de dobrar essa narrativa,</font>
+
+1197
+00:56:41.923 --> 00:56:43.003
+<font color="#00ffff">por assim dizer.</font>
+
+1198
+00:56:45,843 --> 00:56:48,723
+# Ah-ah-ah... #
+
+1199
+00:56:48.763 --> 00:56:51.123
+<font color="#ffff00">Então, pessoal, vai</font>
+<font color="#ffff00">estar entre</font>
+
+1200
+00:56:51.163 --> 00:56:53.483
+<cor da fonte="#ffff00">Jonny,</fonte>
+
+1201
+00:56:53,523 --> 00:56:55,243
+<cor da fonte="#ffff00">Meg</libra>
+
+1202
+00:56:55.283 --> 00:56:57.443
+<font color="#ffff00">e Kyra.</font>
+
+1203
+00:56:57.483 --> 00:57:01.843
+# Ah-ah ah... #
+
+1204
+00:57:01.883 --> 00:57:03.443
+<font color="#00ff00">Todos felizes?</font> <font color="#00ffff">yes.</font>
+
+1205
+00:57:03,483 --> 00:57:05,603
+<font color="#00ff00">Então, vamos causar o caos em</font>
+<font color="#00ff00">lá, eu acredito,</font>
+
+1206
+00:57:05.643 --> 00:57:06.803
+<font color="#00ff00">assassinando essa pessoa.</font>
+
+1207
+00:57:07.923 --> 00:57:09.763
+<font color="#00ff00">Cara, somos tão maus, não somos?</font>
+
+1208
+00:57:12.403 --> 00:57:17.243
+# Ah-ah-ah...
+
+1209
+00:57:17.283 --> 00:57:18.883
+# Ah-ah-ah...
+
+1210
+00:57:22.243 --> 00:57:24.403
+# Tão subindo. #
+
